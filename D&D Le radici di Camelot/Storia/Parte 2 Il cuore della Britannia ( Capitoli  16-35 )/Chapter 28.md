@@ -1,0 +1,1 @@
+**Visioni dal Ventre** L'Occhio che Ricorda mostra ai giocatori visioni: La Britannia come era prima degli uomini, una rete di luce che copre la terra, e una figura  non ancora identificabile  che cammina tra i nodi di ley come se fossero scalini. Nei decenni passati, questa figura ha visitato ogni nodo. L'ultima visione: la figura si ferma a guardare verso sud. Verso Camelot.

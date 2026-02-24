@@ -1,0 +1,1 @@
+**Nimue Libera** La vera Nimue, liberata, è indebolita ma furiosa. Porta con sé informazioni cruciali: il doppelganger stava preparando il rituale finale per aprire il settimo nodo da settimane. Ha già iniziato. E per completarlo, ha bisogno di un sacrificio specifico — qualcuno con sangue reale. Sta andando da Artù.

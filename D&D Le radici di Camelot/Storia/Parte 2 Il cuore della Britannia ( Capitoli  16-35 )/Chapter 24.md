@@ -1,0 +1,3 @@
+**Il Villaggio Fuori dalle Mappe** [[Edenmere]] un villaggio che non appare su nessuna mappa, abitato da persone che sembrano normali ma non invecchiano. Nessuno riesce a ricordare quando è arrivato. Il tempo si muove stranamente. È una trappola fatata — il villaggio è un **Glamour** mantenuto da un Eladrin corrotto chiamato **Seranis**, che raccoglie "momenti" di vita dei mortali come moneta per il Feywild. Non è malvagio nel senso classico — è un collezionista. Ma le persone deperiscono lentamente. Liberarle significa distruggere il glamour — e Seranis diventa un nemico potente.
+[[Duskcaller L'Arco Crepuscolare]]
+

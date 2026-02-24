@@ -1,0 +1,2 @@
+**Il Segreto di Sir Edric** Nella cantina: un altare nascosto con un frammento di osso iscritto in proto-celtico. Sir Edric confessa: suo nonno era un necromante. Il frammento è un [[Osso di Richiamo]] — un artefatto che comanda i morti del tumulo sottostante. Qualcuno lo ha parzialmente attivato di recente. Chi? Edric non sa. I giocatori devono distruggere l'osso o trovare chi l'ha attivato. Distruggerlo è la scelta ovvia ma scatena i morti per una notte intera — difesa del villaggio,
+[[Osso di Richiamo]]
