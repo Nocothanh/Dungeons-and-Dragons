@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Catena del Legame Spezzato**<br><br>_Oggetto Meraviglioso (Amuleto) \| Raro_|   |
+|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 19<br><br>**FONTE**<br><br>Lasciata da Kael durante il suo primo incontro nel tempio abbandonato|**DESCRIZIONE**<br><br>_Una catena sottile di argento con un pendente a forma di anello spezzato. Il metallo è freddo al tatto in modo innaturale — non si scalda mai, nemmeno se tenuto in mano per ore. I nodi della catena sembrano quasi respirare se osservati a lungo._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Vantaggio su tutti i tiri salvezza contro incantesimi di charme, dominazione e possessione.<br>- Immunità all'effetto 'Affascinato' da creature con CR 4 o inferiore.<br>- 1 volta per riposo lungo: se il portatore viene posseduto o dominato, può effettuare immediatamente un secondo tiro salvezza (anche se il primo è fallito) con vantaggio.<br>- La catena vibra silenziosamente quando una creatura entro 60 piedi sta usando magia di dominazione o charme (rilevamento passivo).|
+|**LORE:** _Kael forgiò questo amuleto durante i suoi anni di lotta contro la possessione del Silenzio Divorante. Ogni nodo della catena rappresenta un momento in cui riuscì a resistere alla mente che cercava di divorare la sua._|   |

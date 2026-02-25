@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Frammento della Phylacterie Spezzata**<br><br>_Arma Speciale (Componente Rituale) \| Leggendario_|   |
+|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 31 (scheggia), Capitolo 37 (dopo la distruzione)<br><br>**FONTE**<br><br>Dal Lich Vael Mordechai / Castello del Silenzio Eterno|**DESCRIZIONE**<br><br>_Un frammento di cristallo nero-viola della dimensione di un coltello. Emette un freddo intenso e sporadici bagliori interni. Chiunque non sintonizzato lo tenga in mano percepisce frammenti di pensieri altrui — resti dell'identità di Vael._<br><br>**PROPRIETÀ MECCANICA**<br><br>- +2d6 danni radianti contro creature non-morte per qualsiasi attacco (da mischia o a distanza) quando tenuto in mano.<br>- Usabile 3 volte: dopo 3 usi, i danni aggiuntivi si riducono a 1d6 (la carica si riduce con l'uso).<br>- Componente del rituale del sigillo: necessario per chiudere la fessura nel capitolo 57.<br>- Il portatore sintonizzato può 'sentire' la presenza di non-morti entro 60 piedi come pressione sulla mente.|
+|**LORE:** _La phylacterie di un Lich contiene non solo la sua anima ma anche l'essenza della sua magia del vuoto accumulata in tre secoli. Anche in frammenti, questo potere è sufficiente per ferire i non-morti con intensità straordinaria._|   |

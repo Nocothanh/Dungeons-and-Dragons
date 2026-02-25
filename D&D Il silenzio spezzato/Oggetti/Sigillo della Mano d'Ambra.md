@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Sigillo della Mano d'Ambra**<br><br>_Oggetto Meraviglioso (Sociale) \| Comune_|   |
+|**SINTONIZZAZIONE**<br><br>Non richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 8<br><br>**FONTE**<br><br>Donato da Madame Cossett dopo la sua confessione|**DESCRIZIONE**<br><br>_Un sigillo di cera d'ambra solidificata su un supporto di ottone, con inciso il logo della corporazione: una mano aperta che regge una moneta. Il sigillo è riconoscibile in tutti i mercati di Arvenmoor._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Permette accesso ai magazzini e alle risorse della Mano d'Ambra in qualsiasi città di Arvenmoor (vantaggio su prove di Persuasione con mercanti e corporazioni).<br>- 1 volta per sessione: può essere usato per richiedere un 'favore commerciale' — informazioni su movimenti di merci, accesso a un veicolo o imbarcazione mercantile, o credito fino a 100 mo presso un commerciante affiliato.<br>- Mostrarlo in tribunale o a funzionari pubblici garantisce lo status legale di 'testimone commerciale protetto' (vantaggio su prove legali).|
+|**LORE:** _La Mano d'Ambra ha operato ad Arvenmoor per 200 anni senza mai schierarsi apertamente con nessuna fazione politica. Il sigillo è un simbolo di quella neutralità — e il suo valore deriva esattamente da questa reputazione._|   |
