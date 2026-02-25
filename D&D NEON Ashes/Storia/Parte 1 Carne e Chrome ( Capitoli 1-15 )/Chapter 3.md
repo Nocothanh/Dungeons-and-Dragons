@@ -7,7 +7,7 @@
 |---|
 |**📋 RIASSUNTO**|
 
-Un personaggio ferito viene portato da Viktor, il ripperdoc del Distretto Basso. Nella clinica segreta il gruppo scopre che Viktor sta modificando persone con innesti magici ibridi. Viene rivelato che il cristallo porta un codice di accesso per i sotterranei di Arasaka-Thane. Un assassino con un occhio di cristallo attacca la clinica.
+Un personaggio ferito viene portato da [[Viktor Vector]], il ripperdoc del Distretto Basso. Nella clinica segreta il gruppo scopre che Viktor sta modificando persone con innesti magici ibridi. Viene rivelato che il cristallo porta un codice di accesso per i sotterranei di Arasaka-Thane. Un assassino con un occhio di cristallo attacca la clinica.
 
 |   |
 |---|
@@ -37,6 +37,6 @@ _Clinica Sotterranea di Viktor — corridoi di metallo polito, vasche di fluido 
 |---|
 |**✨ OGGETTO / RICOMPENSA**|
 
-|   |
-|---|
-|**Siringa di Rigenerazione Cromatica** — _Oggetto Magico (Rarità: Non comune)_<br><br>Come azione usa la siringa per recuperare 2d8+2 PF. Tre cariche, non si ricarica. Dopo l'ultimo uso il vetro si incrina.|
+|                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Siringa di rigenerazione cromatica]] — _Oggetto Magico (Rarità: Non comune)_<br><br>Come azione usa la siringa per recuperare 2d8+2 PF. Tre cariche, non si ricarica. Dopo l'ultimo uso il vetro si incrina. |

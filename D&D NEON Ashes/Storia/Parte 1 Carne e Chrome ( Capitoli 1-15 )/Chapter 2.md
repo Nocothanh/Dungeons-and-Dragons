@@ -13,7 +13,7 @@ Il gruppo esplora il Distretto Basso di Neon, dove si mescolano elfi nomadi, nan
 |---|
 |**👥 PERSONAGGI SECONDARI**|
 
-- Marisol la Fixer
+- [[Marisol la fixer]]
 - Grix il Nano Meccanico (contatto locale)
 - Lena Azzurra (elfa, informatrice)
 

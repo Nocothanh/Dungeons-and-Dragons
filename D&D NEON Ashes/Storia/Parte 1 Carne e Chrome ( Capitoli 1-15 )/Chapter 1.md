@@ -16,9 +16,10 @@ I protagonisti arrivano a Neon sul treno merci, mescolati tra operai e contrabba
 |---|
 |**👥 PERSONAGGI SECONDARI**|
 
-- Viktor il Ripperdoc (umano, ex chirurgo)
-- Marisol la Fixer (tiefling, intermediaria)
+- [[Viktor Vector]] (umano, ex chirurgo)
+- [[Marisol la fixer]] (tiefling, intermediaria)
 - Guardia Caposquadra Draven (umano, corrotto)
+
 
 |   |
 |---|
@@ -34,12 +35,13 @@ I protagonisti arrivano a Neon sul treno merci, mescolati tra operai e contrabba
 |---|
 |**🌆 LUOGO**|
 
-_Stazione Centrale di Neon — terminal di ferro e vetro sporco, insegne olografiche al neon che proiettano pubblicità in lingue di cinque culture._
+_[[Stazione centrale di Neon]]  terminal di ferro e vetro sporco, insegne olografiche al neon che proiettano pubblicità in lingue di cinque culture._
+
 
 |   |
 |---|
 |**✨ OGGETTO / RICOMPENSA**|
 
-|   |
-|---|
-|**Cristallo di Dati Incrinato** — _Oggetto Magico (Rarità: Non comune)_<br><br>Contiene un frammento di mappa e un messaggio cifrato. Un personaggio con Arcana può estrarne un'immagine parziale una volta al giorno.|
+|                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Cristallo di Dati incrinato]] _Oggetto Magico (Rarità: Non comune)_<br><br>Contiene un frammento di mappa e un messaggio cifrato. Un personaggio con Arcana può estrarne un'immagine parziale una volta al giorno. |
