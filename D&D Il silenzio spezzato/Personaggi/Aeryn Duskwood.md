@@ -1,0 +1,11 @@
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Aeryn Duskwood**<br><br>_Ranger della Foresta di Ashenveil \|_ **Alleato**|   |   |   |   |   |
+|**Razza:** Elfa del Bosco **Classe:** Ranger (Archetipo: Cacciatore) / Druida (splash) **Livello/CR:** Livello 8 **Età:** 127 anni (apparentemente 25 anni umani) **Allineamento:** Caotico Buono|   |   |   |   |   |
+|**FOR**<br><br>13 (+1)|**DES**<br><br>17 (+3)|**COS**<br><br>12 (+1)|**INT**<br><br>12 (+1)|**SAG**<br><br>14 (+2)|**CAR**<br><br>10 (+0)|
+|**HP:** 52 (8d10 + 8) **CA:** 15 (Armatura di cuoio, DES +3) **Velocità:** 35 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Sopravvivenza +8, Furtività +9, Natura +7, Percezione +8, Atletica +4|   |   |**Tiri Salvezza Competenti**<br><br>FOR +4, DES +6|   |   |
+|**Resistenze:** — **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Arco di Radice Cantata (+1): +7 per colpire, portata 150/600 piedi, 1d8+4 danni (+ frecce elfiche speciali se disponibili).<br>- Spada corta: +6 per colpire, portata 5 piedi, 1d6+3 taglienti.<br>- Cacciatore Favorito (Nemico Prediletto): Creature corrotte dal vuoto — vantaggio su Indagare e Sopravvivenza per tracciarle, +4 danni.<br>- Passo senza Tracce (sempre attivo in foresta): non lascia tracce, vantaggio sulle prove di Furtività in area naturale.<br>- Senso della Foresta: non può essere sorpreso in ambienti naturali.<br>- Incantesimi Ranger (slot: 2/2): Passo Felpato, Marchio del Cacciatore, Passare senza Tracce, Invocare gli Animali (1/giorno).<br>- Attacco Extra (2 attacchi per azione).|   |   |   |   |   |
+|**Background e Personalità**<br><br>Aeryn è cresciuta a Sylmaar come guaritrice e guida del bosco, ma la sua vera passione era sempre la caccia alle creature aberranti che minacciavano la foresta. La distruzione del suo villaggio ha trasformato la sua metodicità professionale in qualcosa di più cupo — una determinazione spietata che non lascia spazio alla paura ma a volte nemmeno alla compassione. Ama la foresta più delle persone, ma ha imparato a fidarsi dei PG.<br><br>**Motivazione:** Proteggere la foresta di Ashenveil e vendicare Sylmaar.<br><br>**Ruolo in campagna:** Prima guida e alleata, poi membro stabile del gruppo di supporto.<br><br>**Appare nei capitoli:** 10-15, 30, 39, 42, 44-46, 59|   |   |   |   |   |
