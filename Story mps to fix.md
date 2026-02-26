@@ -88,7 +88,9 @@ _(Capitoli 1–12)_
 
 ### 📖 CAPITOLO 10 — _"La Torre di Cinere — Interno"_
 
-[[Chapter 10]]
+**Riassunto:** All'interno della torre i protagonisti trovano un sistema di stanze su cinque piani, ognuno sorvegliato da guardie sempre più potenti e pervase dalla corruzione di Varek. Al terzo piano trovano dei prigionieri: avventurieri catturati la cui forza vitale viene lentamente drenata. Al quinto piano, il comandante della torre: un **Half-Dragon** corrotto da Varek chiamato **Zorrak**.
+
+**Personaggi principali:** PG + **Prigionieri** (PNG minori da salvare) **Nemici:** **Gargoyle x2** (MM p.140) + **Cult Fanatic x2** (MM p.345) + **Zorrak, Half-Dragon Corrupted** (statblock: Half-Red Dragon Veteran MM p.180, +effetti corruzione) **Luogo:** _Torre di Cinere_ — cinque piani di pietra nera, finestre tappate, corridoi con vene luminose viola nel muro **Oggetto:** **Scudo di Zorrak** — Scudo +1; chi lo impugna ha resistenza ai danni da fuoco
 
 ---
 
