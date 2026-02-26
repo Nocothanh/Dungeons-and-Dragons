@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**📍 Le Strade di Vel'Dara Durante l'Invasione dei Frammenti**|   |
+|**Descrizione**<br><br>Vel'Dara trasformata: l'Occhio Collettivo è ancora attivo ma i suoi operatori sono stati tra i primi a diventare Frammenti di Varek. Le strade che un tempo sembravano troppo ordinate ora hanno qualcosa di ancora più inquietante — persone che si muovono in modo meccanico, con gli occhi neri, ripetendo le stesse frasi al contrario.|**Atmosfera & Dettagli Sensoriali**<br><br>_Silenzio strano — non il silenzio dell'assenza di persone, ma quello di persone che non fanno rumore quando dovrebbero. I Frammenti parlano in simultanea se abbastanza vicini, creando un coro basso e monotono. Quelli non ancora trasformati si muovono rapidamente, cercando di non essere notati. Le guardie non ci sono più — o sono diventate Frammenti._|
+|**Punti di Interesse**<br><br>L'Occhio Collettivo Spento: le torri di sorveglianza ora proiettano immagini frammentate e distorte del passato di Vel'Dara. Il Quartiere dei Frammenti: area dove si concentrano e dove è pericolosissimo entrare senza il Sigillo dei Guardiani. Il Rifugio dei Sopravvissuti: cantina di una panetteria, 30 civili nascosti e spaventati.|   |

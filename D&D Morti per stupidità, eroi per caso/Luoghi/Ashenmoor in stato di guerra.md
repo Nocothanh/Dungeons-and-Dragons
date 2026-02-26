@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**📍 Ashenmoor in Stato di Guerra**|   |
+|**Descrizione**<br><br>Dopo la battaglia del cap. 49, Ashenmoor è parzialmente distrutta: il porto fluviale è inagibile, il Quartiere Basso ha interi isolati rasi al suolo, le mura nord hanno una breccia di venti metri. Ma la città regge. La Gilda è danneggiata ma funziona come centro operativo. I rifugiati dalle campagne circostanti si accampano fuori dalle mura.|**Atmosfera & Dettagli Sensoriali**<br><br>_L'atmosfera è quella dell'immediato post-guerra: stanchezza, lutto e una determinazione tesa. Le strade sanno di fumo e medicina. Si sente ancora il crepitio delle macerie che cedono. Ma si sentono anche lavori di ricostruzione — il suono di martelli e voci che si coordinano. La gente ha deciso di restare._|
+|**Punti di Interesse**<br><br>La Gilda Parzialmente Distrutta: operativa nel piano terra, il resto è da ricostruire. Il Rifugio di Marta: la locanda è uno dei pochi edifici intatti nel Quartiere Basso — diventa il quartier generale emotivo dei PG. Il Muro della Memoria: muro iniziato spontaneamente dai cittadini dove vengono incisi i nomi dei caduti. La Breccia Nord: zona di confine temporaneamente vulnerabile.|   |
