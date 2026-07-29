@@ -1,0 +1,1 @@
+**Il Settimo Nodo** Il settimo e ultimo nodo è segnato sulla mappa in un posto impossibile: sotto [[Camelot]]. Fine della Parte Seconda.

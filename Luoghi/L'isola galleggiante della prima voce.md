@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**📍 L'Isola Galleggiante della Prima Voce**|   |
+|**Descrizione**<br><br>Un frammento di terra di circa un ettaro che galleggia tra le nuvole, raggiungibile solo con volo o mezzi magici e solo a mezzanotte durante la luna piena. È coperto interamente da fiori bianchi senza stelo — crescono direttamente dalla terra nuda come capelli. Il silenzio sull'isola è fisicamente percepibile: sembra togliere un peso dalle spalle.|**Atmosfera & Dettagli Sensoriali**<br><br>_L'aria è la più pura che i PG abbiano mai respirato — quasi dolorosa per polmoni abituati all'aria della terra. La Prima Voce si manifesta senza forma fissa: un momento è brezza, poi è ombra, poi è il crepitio di un fuoco che non c'è. Parla sempre facendo domande, mai dando risposte dirette._|
+|**Punti di Interesse**<br><br>Il Centro dell'Isola: dove la Prima Voce è più "presente" — i fiori crescono più fitti e bianchi. Il Bordo Sud: dove si vede il mondo sottostante attraverso le nuvole — un panorama di tutto il continente. Il Luogo del Rituale: un cerchio di pietre basse dove il Secondo Sigillo può essere rimosso. I Fiori della Memoria: ogni fiore corrisponde a un'anima di passaggio — toccandoli si sente un frammento della vita di qualcuno.|   |

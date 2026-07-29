@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Mantello delle Maree**<br><br>_Oggetto Meraviglioso (Indossabile) \| Raro_|   |
+|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 27<br><br>**FONTE**<br><br>Scogliere dell'Oblio, camera marina|**DESCRIZIONE**<br><br>_Un mantello blu-verde scuro che riflette la luce come acqua mossa. Il tessuto è stranamente asciutto al tatto anche dopo l'immersione completa. Quando il portatore è sott'acqua, il mantello si muove come se fluttuasse sempre, creando un effetto spettacolare._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Resistenza ai danni da freddo.<br>- Respiro sott'acqua per 10 minuti per riposo lungo (poi richiede aria).<br>- Nuoto: la velocità di nuoto è pari alla velocità di movimento normale (nessuna penalità).<br>- 1 volta per riposo lungo: 'Onda Difensiva' — come reazione a un attacco fisico, il mantello crea una barriera d'acqua che riduce i danni di 1d8+2.<br>- Il portatore è immune all'effetto di disorientamento delle Scogliere dell'Oblio (magia ambientale).|
+|**LORE:** _Creato da una sirena convertita alla magia druida secoli fa, il mantello contiene l'essenza del confine tra aria e acqua. Fu sequestrato da una Megera del mare che lo usava come oggetto di tortura psicologica per le sue prigioniere._|   |

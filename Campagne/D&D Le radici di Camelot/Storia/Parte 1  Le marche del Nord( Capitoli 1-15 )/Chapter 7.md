@@ -1,0 +1,2 @@
+**La Collina dei Morti** Investigazione. I giocatori scoprono che sotto il cimitero c'è un secondo tumulo, molto più antico. Qualcuno ha rotto il sigillo — impronte fresche, simboli incisi di recente. I non morti (Zombie e Ghoul) non attaccano i vivi a caso: sono orientati verso un punto specifico del villaggio. Quel punto è la cantina di Sir Edric.
+[[Anello del Guardiano Sepolto]]

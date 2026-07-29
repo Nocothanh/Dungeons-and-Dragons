@@ -1,0 +1,2 @@
+**Il Volto dell'Ouroboros** Il leader dell'Ouroboros è **Nimue Oscura** — non la vera Nimue, ma un doppelganger del Feywild che ne ha preso il posto anni fa. La vera Nimue è prigioniera in una torre nel Feywild da decenni. L'Ouroboros è guidato da un'entità del Ventre di Albione che ha imparato a parlare attraverso il doppelganger. Non vuole distruggere il mondo — vuole tornare nel mondo. Non capisce che il suo ritorno lo distruggerebbe.
+[[Anello del Patto Spezzato]]

@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Lanterna dell'Alba**<br><br>_Oggetto Meraviglioso \| Non Comune_|   |
+|**SINTONIZZAZIONE**<br><br>Non richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 3<br><br>**FONTE**<br><br>Ritrovata su un altare abbandonato lungo la Via del Sale|**DESCRIZIONE**<br><br>_Una lanterna di ottone antico con vetri color ambra. Non richiede combustibile — la sua fiamma è un residuo di energia sacra intrappolata nel metallo. La fiamma non si spegne con il vento ma può essere coperta con un coperchio scorrevole._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Emette luce come un normale incantesimo 'Luce' (20 piedi di luce intensa, 20 piedi di luce fioca).<br>- 1 volta per riposo lungo: la fiamma si intensifica in un bagliore accecante per 1 round — tutte le creature non-morte o dipendenti dalle ombre entro 30 piedi devono effettuare un tiro salvezza su CON DC13 o subire 2d8 danni radianti e rimanere acceche fino alla fine del loro prossimo turno.<br>- I non-morti subiscono svantaggio ai tiri per colpire contro chi porta la lanterna accesa.|
+|**LORE:** _Fu lasciata sull'altare da un paladino di un ordine dimenticato che si sacrificò per fermare un'incursione di ombre sulla Via del Sale. La fiamma è un frammento della sua anima volontariamente donata._|   |

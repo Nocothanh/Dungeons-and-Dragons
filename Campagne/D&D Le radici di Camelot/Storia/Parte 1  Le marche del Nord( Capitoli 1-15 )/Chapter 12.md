@@ -1,0 +1,3 @@
+[[Il Bosco di Broc]] Esplorazione. Il bosco è vivo — gli alberi si spostano, i sentieri cambiano. I giocatori incontrano[[Fiora Senza-nome]], una Ranger (Gloom Stalker) di origine picta, che caccia nel bosco da anni. Backstory: Fiora era la guardiana di un villaggio picto distrutto da cavalieri del sud. Vive sola per scelta, parla poco, conosce ogni angolo del bosco. È sospettosa degli stranieri ma rispetta chi dimostra competenza. Le fate danno indovinelli invece di combattere — ma se i giocatori falliscono, li trascinano nel Feywild per un'ora.
+[[Briarwyn La Spada del Bosco]]
+[[Mantello di Fiora L'Ombra Picta]]

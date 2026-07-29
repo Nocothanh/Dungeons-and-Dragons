@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Pergamena della Resurrezione**<br><br>_Pergamena Magica (usa e getta) \| Molto Raro_|   |
+|**SINTONIZZAZIONE**<br><br>Non richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 45<br><br>**FONTE**<br><br>Rifornimenti medici della Rettrice Finch, trovata prima della battaglia finale|**DESCRIZIONE**<br><br>_Una pergamena di vellum color avorio arrotolata e sigillata con ceralacca dorata. Il sigillo porta il simbolo dell'Accademia degli Echi. Il testo è scritto in caratteri d'oro che brillano debolmente. Leggendo la pergamena ad alta voce si sente una voce armonica che completa le parole._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Una tantum: quando letta ad alta voce entro 1 minuto dalla morte di un PG (non distruzione del corpo), riporta in vita il PG con la metà massima dei suoi HP.<br>- Il PG riportato in vita ottiene 1 livello di esaurimento.<br>- La pergamena si polverizza dopo l'uso.<br>- Non funziona se il corpo è completamente distrutto, se il PG è morto da più di 1 minuto, o se l'anima è stata intrappolata.|
+|**LORE:** _La Rettrice Finch conservava questa pergamena da decenni, acquistata durante i suoi anni di ricerca avanzata. Non l'ha mai usata, anche in situazioni disperate — 'stavo aspettando il momento in cui sarebbe stato davvero necessario', dice._|   |

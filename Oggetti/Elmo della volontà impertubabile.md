@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**Elmo della Volontà Imperturbabile**<br><br>_Oggetto Meraviglioso (Indossabile) \| Molto Raro_|   |
+|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 47<br><br>**FONTE**<br><br>Golem di ossa di Vael, trono mobile|**DESCRIZIONE**<br><br>_Elmo di ferro massiccio con una visiera a griglia. Sulla fronte è incisa una runa unica che sembra diversa ogni volta che si guarda — a volte sembra la parola 'silenzio', a volte 'resistenza', a volte solo un cerchio aperto. Indossandolo si percepisce una chiarezza mentale insolita._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Immunità all'effetto 'Silenziato Magicamente' (incluso l'effetto speciale di Vael di azzerare la magia).<br>- Vantaggio su tutti i tiri salvezza contro Paura, Charme e effetti mentali.<br>- Resistenza psichica: riduce i danni psichici di 3 per ogni colpo.<br>- 1 volta per riposo lungo: 'Mente Schermata' — per 1 minuto, nessuna creatura può leggere i pensieri del portatore o comunicare telepaticamente con lui senza consenso.|
+|**LORE:** _L'elmo fu creato da Vael come parte delle difese del suo trono mobile, progettato per resistere a qualsiasi forma di intrusione mentale. L'ironia è che ora è usato contro di lui._|   |

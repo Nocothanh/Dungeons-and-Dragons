@@ -1,0 +1,1 @@
+**Il Segreto di Uther** Uther, sconvolto dalla violazione della sua corte, rivela a Merlino (e i giocatori origliamo) il suo segreto più grande: Artù è suo figlio. E il settimo nodo di ley — quello sotto [[Camelot]] — non è un'arma. È una serratura. Tiene chiuso qualcosa che dormiva da prima dei romani, da prima dei celti, da prima degli uomini. Se si apre, Albione muore.

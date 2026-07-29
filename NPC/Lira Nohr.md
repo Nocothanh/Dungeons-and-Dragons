@@ -1,0 +1,11 @@
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Lira Nohr**<br><br>_La Corrotta Redenta \|_ **Alleato**|   |   |   |   |   |
+|**Razza:** Umana **Classe:** Wizard (Scuola della Trasmutazione) **Livello/CR:** Livello 6 (sale a Livello 8 dopo la guarigione) **Età:** 19 anni **Allineamento:** Caotico Buono|   |   |   |   |   |
+|**FOR**<br><br>8 (-1)|**DES**<br><br>12 (+1)|**COS**<br><br>10 (+0)|**INT**<br><br>16 (+3)|**SAG**<br><br>14 (+2)|**CAR**<br><br>13 (+1)|
+|**HP:** 27 (6d6) **CA:** 11 **Velocità:** 30 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Arcano +6, Storia +6, Medicina +5, Persuasione +4, Percezione +5|   |   |**Tiri Salvezza Competenti**<br><br>INT +6, SAG +5|   |   |
+|**Resistenze:** Psichici (residuo della corruzione sanata — 3 per attacco) **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Incantesimi (slot: 4/3/3): Dardo Incantato, Individuare Magia, Mano Maga, Porta Dimensionale, Palla di Fuoco, Volare.<br>- Visioni del Vuoto (passivo): vede brevemente frammenti di eventi futuri legati al Silenzio Divorante — DM può rivelare hint narrativi attraverso lei.<br>- Catalizzatore Magico: 1/giorno può amplificare un incantesimo di un alleato (tiro danno + 1d6, oppure DC +1).<br>- Corruzione Residua (durante la storia): Prima della guarigione, può accedere a poteri oscuri che la indeboliscono — il DM sceglie quando attivare questo elemento narrativo.|   |   |   |   |   |
+|**Background e Personalità**<br><br>Lira è la figlia del Senatore Nohr, cresciuta nel privilegio ma con una vorace intelligenza che la spingeva oltre i libri e verso la magia pratica. Quando fu rapita dai Tessitori, la sua mente fu usata come 'ricevitore' per frammentare i suoi ricordi e raccogliere informazioni sul padre. La corruzione la lasciò con visioni del Silenzio Divorante che la tormentavano. La sua guarigione dopo la chiusura della fessura è completa fisicamente, ma le visioni residue rimangono come un dono ambiguo.<br><br>**Motivazione:** Capire cosa le è successo e usare quello che ha imparato per aiutare.<br><br>**Ruolo in campagna:** Fonte di informazioni sulle visioni, supporto magico, arco di redenzione personale.<br><br>**Appare nei capitoli:** 28-29, 30, 44-45, 59|   |   |   |   |   |

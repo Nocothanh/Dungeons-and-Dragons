@@ -1,0 +1,6 @@
+
+|   |   |
+|---|---|
+|**📍 La Città Sommersa di Arev**|   |
+|**Descrizione**<br><br>Una metropoli antica di circa 3 km² affondata millenni fa sul fondo di un lago di acqua dolce. Le cupole di pietra corallina sono ancora in piedi, coperte da alghe che le rendono quasi invisibili dall'alto. Le strade sono pavimentate con mosaici rappresentanti scene di vita quotidiana di una civiltà perduta — straordinariamente dettagliati e ben conservati.|**Atmosfera & Dettagli Sensoriali**<br><br>_Luce verde-azzurra filtrata dall'acqua. Pesci luminosi grandi come lanterne nuotano tra le colonne, creando ombre che si muovono. Il suono è ovattato e profondo. Ci sono correnti d'acqua inaspettate — alcune naturali, alcune create dalla presenza dell'Aboleth. Il freddo è intenso sotto i 20 metri._|
+|**Punti di Interesse**<br><br>Il Palazzo Reale di Arev: parzialmente collassato, ma la sala del trono è intatta con un trono di corallo che ancora proietta una luce bassa. La Piazza del Mercato: dove i Merfolk corrotti si radunano. Il Tempio del Dio Dimenticato: struttura circolare con iscrizioni che i PG possono decifrare (Arcana CD 14) per capire la storia di Arev. L'Abisso di Arev: una fessura nel fondale che scende nell'oscurità.|   |

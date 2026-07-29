@@ -1,0 +1,9 @@
+
+|   |   |
+|---|---|
+|💎 **Reliquia del Ricordo**<br><br>Chiave di Trama · **Narrativo** · Trovato: Cap. 28 — Il Costo della Memoria<br><br>_📍 Creato o trovato da ogni PG individualmente — il DM personalizza in base al giocatore_|   |
+|**ASPETTO**|Dipende dal giocatore. Esempi: una fotografia sbiadita che esiste solo in questo mondo come visione materializzata, un oggetto comune del mondo reale (un mazzo di chiavi, un cellulare spento), una lettera scritta in lingue moderne, un giocattolo d'infanzia. Ogni oggetto è fisicamente reale in questo mondo ma "sbagliato" — fuori posto, anacronistico.|
+|**STORIA**|Il rituale per sigillare Varek richiede un sacrificio di memoria — non la memoria intera, ma il singolo ricordo più caro che lega ogni PG al proprio mondo reale. Aldric canalizza questo ricordo in un oggetto fisico come supporto per il sacrificio. Il momento in cui il PG decide quale ricordo sacrificare è la scena più personale dell'intera campagna.|
+|**MECCANICA**|Nessuna proprietà meccanica. È un oggetto narrativo puro.<br><br>Il sacrificio avviene nel rituale dell'Ombelico. Il ricordo non è cancellato completamente — è sbiadito, come un sogno dimenticato al mattino. Il PG sa che esisteva, ma non può più riviverlo.<br><br>Nella Parte V (Cap. 59), Varek usa l'immagine di questi oggetti come arma psicologica durante lo scontro finale. Il DM deve prepararsi a descrivere versioni distorte di questi oggetti come parte della "Forma Finale" di Varek.|
+|**SPECIALE**|Sessione zero o pre-sessione: chiedi privatamente a ogni giocatore quale sarebbe il ricordo più caro del loro personaggio dal mondo reale. Questo oggetto è la materializzazione di quella risposta. Non rendere il momento di sacrificio frettoloso — è il cuore emotivo della campagna.|
+|**NOTE DM**|Il momento più delicato dell'intera campagna. Alcune persone potrebbero emozionarsi davvero. Lascia il tempo necessario. Non abbreviare per "andare avanti con la trama".|

@@ -1,0 +1,9 @@
+
+|   |   |
+|---|---|
+|⚔️ **Armatura della Coalizione**<br><br>Armatura · **Molto Raro** · Trovato: Cap. 50 — Il Prezzo della Vittoria<br><br>_📍 Forgiata dal fabbro di Bryn usando il Frammento del Trono (Cap. 20), dopo la Battaglia di Ashenmoor_|   |
+|**ASPETTO**|Un'armatura su misura per il PG che la porta — il tipo base è quello preferito dal personaggio (piastre, cotta di maglia, cuoio, ecc.). La caratteristica distintiva è il materiale: l'armatura è striata di grigio pietra e oro, con rune incise dai fabbri dei Giganti della Pietra. Il simbolo della coalizione — un cerchio con quattro frecce verso l'esterno — è inciso sul petto.|
+|**STORIA**|Bryn ha convinto il fabbro della tribù dei Giganti della Pietra a forgiare questa armatura personalmente — un onore rarissimo, riservato ai campioni della tribù. Il materiale viene dal Frammento del Trono (il sasso della camera di Re dei Giganti), ora trasformato da testimonianza di corruzione a promessa di protezione.|
+|**MECCANICA**|+2 alla CA (bonus magico sommato al tipo base di armatura).<br><br>Proprietà unica personalizzata per il PG (il DM sceglie in base al personaggio). Esempi: Resistenza ai danni psichici / +1d6 danni all'arma principale una volta per combattimento / Vantaggio ai tiri salvezza Forza e Costituzione.<br><br>Il portatore non può essere scagliato via involontariamente (effetti di knock, spingere, lanciare non funzionano su di lui).|
+|**SPECIALE**|La proprietà unica personalizzata è la parte più importante. Prenoti del tempo prima del Cap. 50 per decidere cosa si adatta meglio a ogni PG — idealmente qualcosa che rispecchi la crescita del personaggio lungo la campagna.|
+|**NOTE DM**|Consegna questa armatura con cerimonia. I Giganti della Pietra non fanno cose così senza ragione. Bryn dovrebbe essere presente.|

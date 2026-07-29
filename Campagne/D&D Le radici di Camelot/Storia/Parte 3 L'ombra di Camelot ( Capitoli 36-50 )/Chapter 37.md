@@ -1,0 +1,1 @@
+**La Corte di Uther** Udienza con **Re Uther Pendragon**  malato, paranóico, ancora potente. Uther conosce i nodi di ley  Merlino gliene ha parlato. Ed è furioso che degli avventurieri di strada stiano maneggiando forze che non capiscono. Ma ha bisogno di loro. I giocatori vengono confinati a [[Camelot]] mentre Uther "decide cosa fare."

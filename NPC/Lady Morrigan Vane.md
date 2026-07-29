@@ -1,0 +1,11 @@
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Lady Morrigan Vane**<br><br>_Governatrice di Aurmere \|_ **Alleato**|   |   |   |   |   |
+|**Razza:** Umana **Classe:** Noble / Politician **Livello/CR:** Livello 6 Fighter (Campione) — non usa le abilità spesso **Età:** 44 anni **Allineamento:** Legale Neutrale|   |   |   |   |   |
+|**FOR**<br><br>13 (+1)|**DES**<br><br>12 (+1)|**COS**<br><br>13 (+1)|**INT**<br><br>16 (+3)|**SAG**<br><br>17 (+3)|**CAR**<br><br>18 (+4)|
+|**HP:** 52 (6d10 + 6) **CA:** 14 (armatura leggera ceremoniale) **Velocità:** 30 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Storia +6, Persuasione +7, Inganno +7, Intuizione +9, Intimidire +7, Percezione +6|   |   |**Tiri Salvezza Competenti**<br><br>SAG +6, CAR +7|   |   |
+|**Resistenze:** — **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Spada sottile (raramente usata): +4 per colpire, 1d6+1 taglienti.<br>- Autorità politica: vantaggio su Persuasione e Intimidire con PNG di Arvenmoor meridionale.<br>- Analisi tattica: può fornire ai PG informazioni strategiche dettagliate su qualsiasi esercito o fazione che conosce (prove di Storia con vantaggio + informazioni narrative).<br>- Rete diplomatica: ha contatti in ogni città-stato di Arvenmoor meridionale — può ottenere favori diplomatici significativi in 1d6 giorni.<br>- Sospetto naturale: immunità agli incantesimi di Charme di livello 3 e inferiore (anni di politica l'hanno resa diffidente).|   |   |   |   |   |
+|**Background e Personalità**<br><br>Morrigan Vane governò Aurmere per sedici anni con una filosofia semplice: non fidarti di nessuno finché non ha dimostrato di meritarlo. Il suo scetticismo verso i magi deriva da un'esperienza personale — un consigliere mago la tradì dieci anni fa, e ci vollero anni per ricostruire la fiducia del popolo. Non è crudele né miope: è semplicemente cauta fino a quando la prova non è irrefutabile. Quando i PG le portano quella prova, diventa un'alleata assoluta.<br><br>**Motivazione:** Proteggere Aurmere e l'indipendenza delle città-stato del sud da qualsiasi minaccia esterna.<br><br>**Ruolo in campagna:** Alleata politica e militare, contribuisce alla coalizione.<br><br>**Appare nei capitoli:** 40-41, 59|   |   |   |   |   |
