@@ -1,7 +1,0 @@
-
-|   |   |
-|---|---|
-|**📍 L'Altopiano dell'Ombelico**|   |
-|**Descrizione**<br><br>Un altopiano pianeggiante di circa 5 km² a 2.000 metri di quota, raggiungibile attraverso un percorso in salita. Al centro: la Voragine dell'Ombelico — un buco circolare perfetto di 50 metri di diametro che scende nell'oscurità assoluta. Ai quattro punti cardinali: quattro statue colossali di pietra alta 20 metri che rappresentano figure umanoidi senza volto.|**Atmosfera & Dettagli Sensoriali**<br><br>_Vento costante e forte — la voce deve alzarsi per essere udita. Le statue sembrano seguire i movimenti dei PG con la testa, anche se è impossibile vederle muovere direttamente. Il bordo della voragine emana un calore anomalo. Di notte le stelle sopra l'altopiano formano costellazioni che non corrispondono a nessuna mappa stellare conosciuta._|
-|**Punti di Interesse**<br><br>Le Quattro Prove dei Guardiani: una fisica (CA contro un Golem come test di resistenza), una mentale (enigma logico CD 14), una morale (scelta senza risposta giusta), una di memoria (ogni PG deve descrivere un momento reale del proprio mondo). Il Bordo della Voragine: porta a picco, sicuro finché non ci si avvicina troppo. La Scalinata Nascosta: sul lato nord, una serie di gradini di roccia che scendono nella voragine.|   |
-N

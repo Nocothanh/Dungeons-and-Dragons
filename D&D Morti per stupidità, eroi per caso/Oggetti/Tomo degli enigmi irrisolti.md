@@ -1,8 +1,0 @@
-
-|   |   |
-|---|---|
-|📚 **Tomo degli Enigmi Irrisolti**<br><br>Oggetto Magico · **Raro** · Trovato: Cap. 35 — Il Piano di Mezzo<br><br>_📍 Dono dell'Androsphinx Kaerveth nella Sala Sospesa_|   |
-|**ASPETTO**|Un libro rilegato in cuoio bianco che non si macchia — qualsiasi liquido scivola via come da una superficie oleata. Le pagine interne sono di carta pergamena color crema, scritte in un Comune antico perfettamente leggibile. Ogni pagina contiene una domanda e uno spazio bianco per la risposta. Molte pagine sono bianche. Tre pagine contengono domande con risposta.|
-|**STORIA**|Kaerveth accumula enigmi da millenni. Le tre domande con risposta sono quelle che nessun essere vivente aveva ancora risolto prima dei PG — un evento rarissimo. Il tomo è il modo in cui la Sfinge restituisce valore: non dando risposte, ma registrando le domande che vale la pena porre.|
-|**MECCANICA**|Il tomo contiene 3 domande "risolte" che forniscono vantaggio a specifiche prove future, a scelta del DM prima della consegna.<br><br>Esempi: vantaggio al prossimo tiro contro un effetto di Varek; vantaggio a una prova di Arcana nel rituale finale; vantaggio al prossimo tiro di Intuizione contro un PNG.<br><br>Il DM deve decidere le tre situazioni specifiche prima di far trovare il tomo — e non rivelarle ai giocatori finché non si verifica la situazione.|
-|**NOTE DM**|Oggetto a sorpresa narrativa. Ai giocatori sembra un tomo misterioso senza utilità immediata. Il DM sa già quando i bonus si attiveranno. Rivela ogni bonus nel momento giusto: "Hai studiato questo enigma nel Tomo. La risposta ti aiuta adesso."|
