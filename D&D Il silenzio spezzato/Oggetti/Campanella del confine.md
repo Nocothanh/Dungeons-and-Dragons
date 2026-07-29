@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**Campanella del Confine**<br><br>_Oggetto Meraviglioso \| Artefatto_|   |
-|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 34 (prima versione) — Capitolo 60 (versione finale)<br><br>**FONTE**<br><br>Creata da Kael / Ritrovata sulle pianure di Halvenmoor|**DESCRIZIONE**<br><br>_Una piccola campanella di metallo sconosciuto color argento con sfumature violacee. Non suona mai — nemmeno se mossa vigorosamente. Tenendola in assoluto silenzio, si può quasi sentire qualcosa dall'altra parte del confine tra i piani. Ha una storia su di essa che sembra sempre appena incisa._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Nel Piano dell'Eco: orienta il portatore verso la Soglia di uscita (sempre, anche nel buio completo).<br>- Passivo: il portatore percepisce la presenza di aperture planari entro 120 piedi.<br>- Versione finale (cap. 60): 1 volta in assoluto, in silenzio totale, permette di inviare un messaggio di 6 parole a Kael ovunque egli si trovi tra i piani.<br>- Non può essere distrutta con mezzi normali.|
-|**LORE:** _Kael la portava come collegamento al mondo materiale durante i periodi in cui era 'tra i piani'. Lasciarla è il suo modo di dire che non è scomparso — è solo da un'altra parte._|   |

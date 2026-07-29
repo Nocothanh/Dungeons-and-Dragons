@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**Martello di Kharak**<br><br>_Arma (Martello da guerra) +1 \| Raro_|   |
-|**SINTONIZZAZIONE**<br><br>Richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 24<br><br>**FONTE**<br><br>Livelli profondi di Kharak Dûm, recuperato da un Duergar capitano|**DESCRIZIONE**<br><br>_Martello da guerra nanico con testa di ferro scuro e manico di rovere rinforzato con bande di rame brunito. Sulla testa sono incise le rune dei re di Kharak Dûm. Pesa leggermente più di un martello normale ma il bilanciamento lo rende sorprendentemente maneggevole._<br><br>**PROPRIETÀ MECCANICA**<br><br>- +1 ai tiri per colpire e ai danni.<br>- Colpi critici: il bersaglio deve effettuare un tiro salvezza su CON DC13 o essere Stordito fino alla fine del suo prossimo turno.<br>- Contro creature di pietra, terra o minerali (Gargoyle, Golem di pietra, Elementali della Terra): +2d6 danni aggiuntivi.<br>- 1 volta per riposo lungo: 'Risonanza delle Profondità' — colpendo il suolo, crea un'onda sismica in una linea di 30 piedi (2d6 danni da forza, STR DC14 per non cadere proni).|
-|**LORE:** _Il martello fu forgiato per il comandante della guardia personale del Re di Kharak Dûm tre generazioni fa. Quando i Duergar si infiltrarono, uccisero il comandante e presero il martello come trofeo. Re Dorin sa che esiste ma non vuole ammettere pubblicamente la perdita._|   |
