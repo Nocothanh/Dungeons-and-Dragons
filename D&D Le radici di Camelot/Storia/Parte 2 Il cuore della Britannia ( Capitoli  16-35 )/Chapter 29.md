@@ -1,1 +1,0 @@
-**Tradimento Interno** Qualcuno nel gruppo dei giocatori — o un alleato — viene avvicinato dall'Ouroboros con un'offerta. Questo capitolo è quasi interamente roleplay e paranoia. L'Ouroboros non usa la violenza diretta — usa la persuasione, i segreti, le leve emotive. La persona contattata riceve una lettera con un segreto personale che non avrebbe dovuto sapere nessuno.

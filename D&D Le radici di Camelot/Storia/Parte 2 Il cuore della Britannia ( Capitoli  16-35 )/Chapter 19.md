@@ -1,2 +1,0 @@
-**Infiltrazione nella Setta** I giocatori si infiltrano nei Figli della Quinta Luna. La setta non è una truffa: i membri credono davvero e alcuni mostrano poteri mistici genuini — connessione con i nodi di ley. Il leader, [[Velox il Senza Ombra]], è un Mago (Scuola della Necromanzia) umano, giovane, carismatico e convinto di fare la cosa giusta. Backstory: Velox era un orfano cresciuto vicino a un nodo di ley corrotto. Ha sviluppato poteri da solo, crede che i vecchi dei di Albione siano rimedi, non minacce. È un antagonista comprensibile.
-[[Fiala della Quinta Luna]]

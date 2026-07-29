@@ -1,2 +1,0 @@
-**Il Feywild** Apertura di un portale verso il Feywild per liberare la vera Nimue. Il Feywild britannico è selvaggio, temporalmente instabile, fatto di foreste che ricordano Albione ma più grandi e più antiche. Incontrano **Pixie** belligeranti, un **Unicorno** corrotto dall'influenza del Ventre, **Quickling** che rubano ricordi, e un **Green Dragon** giovane che si è auto-proclamato re di una sezione del Feywild.
-[[Fiala di Rugiada del Feywild]]

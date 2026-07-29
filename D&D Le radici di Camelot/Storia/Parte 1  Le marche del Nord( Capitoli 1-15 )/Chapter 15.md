@@ -1,3 +1,0 @@
-**La Prima Cicatrice** Indipendentemente dalla scelta, qualcosa va storto: il cristallo pulsa e invia un'onda di energia magica sulla città. Nessun morto, ma oggetti animati, visioni collettive, e — lontano, nel cielo a sud — per un istante, i giocatori vedono una luce che assomiglia a una torre. [[Aldous il Cartografo]], scosso, mormora: _"Camelot si accorgerà di noi."_ Fine della Parte Prima.
-Incontrano un botto di Mimic
-Mettere dialoghi

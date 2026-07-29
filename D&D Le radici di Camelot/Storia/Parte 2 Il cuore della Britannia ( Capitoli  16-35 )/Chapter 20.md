@@ -1,3 +1,0 @@
-**Il Secondo Nodo** [[Velox il Senza Ombra]] sta cercando di risvegliare il secondo nodo, sepolto sotto [[Duncastle]] stessa — nelle fogne romane abbandonate. I giocatori lo seguono. Le fogne sono abitate da **Otyugh** adattati all'ambiente magico (con squame luminescenti), **Trogloditi** che adorano il nodo come una divinità, e **Shadow Demons** che si nutrono dell'energia del nodo corrotto. Il combattimento finale è tre vie: i giocatori, Velox, e i demoni.
-[[Morntide  Lancia del Nodo]]
-[[Elisir di Ley Sangue del Nodo]]

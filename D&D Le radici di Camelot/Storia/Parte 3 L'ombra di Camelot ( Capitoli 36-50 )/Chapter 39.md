@@ -1,2 +1,0 @@
-**La Cospirazione a Corte** Qualcuno nella corte di Uther è dell'Ouroboros. I giocatori devono scoprirlo. Intrighi, menzogne, interrogatori velati. Il sospettato principale è **Lord Aldric di Hadden**, un consigliere anziano. Il colpevole vero è **Lady Igerna di Calmere**, una nobildonna che sembra innocua — in realtà è stata reclutata vent'anni fa e fornisce all'Ouroboros informazioni su [[Camelot]] da decenni.
-[[Maschera di Mille Voci]]

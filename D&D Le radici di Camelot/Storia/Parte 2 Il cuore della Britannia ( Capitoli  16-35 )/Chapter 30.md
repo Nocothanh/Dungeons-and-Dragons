@@ -1,1 +1,0 @@
-**La Battaglia di Cair Andras** Uno dei lord alleati all'Ouroboros attacca un insediamento vicino ai giocatori per creare caos e distogliere l'attenzione dai nodi. I giocatori devono scegliere: difendere il villaggio o continuare a seguire la pista dei nodi. Non possono fare entrambe le cose perfettamente. Conseguenze durature. Fine della prima metà della Parte II.

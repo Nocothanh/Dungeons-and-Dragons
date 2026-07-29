@@ -1,1 +1,0 @@
- **Il Villaggio di [[Ashfen]]** I personaggi si incontrano per la prima volta nella taverna di Ashfen, un borgo paludoso nel nord di Albione. La notte stessa, un bambino scompare nelle paludi. Gli abitanti parlano di luci verdi e urla lontane. È un'introduzione classica ma efficace: i giocatori devono scegliere se investigare o andare per i fatti loro.
