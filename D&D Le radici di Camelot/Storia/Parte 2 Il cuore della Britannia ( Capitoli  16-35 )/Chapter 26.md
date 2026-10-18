@@ -1,2 +1,0 @@
-**L'Ordine dell'Ouroboros** Ricerca sul simbolo. L'Ouroboros è il marchio di una società segreta antichissima — precedente persino a Roma. Credono che Britannia sia un essere vivente e che i nodi di ley siano i suoi organi. Vogliono "svegliare" La Britannia, il che significherebbe la fine del mondo degli uomini così come è. Non sono necessariamente malvagi — sono fanatici convinti di fare la cosa naturalmente giusta. [[Velox il Senza Ombra]] (se vivo) li conosce e li teme.
-[[Armatura dell'Ouroboros Veste del Serpente]]

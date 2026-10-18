@@ -1,1 +1,0 @@
-**L'Alleanza Impossibile** Per proteggere il settimo nodo, serve un'alleanza tra fazioni che si odiano: i Custodi del Cerchio, la Corte di Camelot, Nimue di Avalon e — forse — [[Velox il Senza Ombra]] e i sopravvissuti dei Figli della Quinta Luna. I giocatori sono gli unici che conoscono tutti questi gruppi. Devono convincerli uno per uno.

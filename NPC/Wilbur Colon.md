@@ -1,0 +1,30 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**FOR**<br><br>**15 (+2)**|**DES**<br><br>**11 (+0)**|**COS**<br><br>**14 (+2)**|**INT**<br><br>**13 (+1)**|**SAG**<br><br>**11 (+0)**|**CAR**<br><br>**12 (+1)**|
+
+|   |   |
+|---|---|
+|**◈ INFORMAZIONI**<br><br>**Razza:** Umano (Tumulus)<br><br>**Classe:** Proprietario di cantiere<br><br>**Livello:** 4<br><br>**Allineamento:** Neutrale<br><br>**Background:** Cimitero di promesse<br><br>**Età:** 40 anni<br><br>**Aspetto:** Sospettoso per mestiere, con le mani sporche di cantiere|**◈ BACKSTORY**<br><br>Wilbur Colon è il **proprietario del cantiere *Ala Spezzata***: sei navi a pezzi e nessuna intera. Al **Cap. 1** esercita il **diritto di riscatto** — può riprendere l'Ala Spezzata per **100 argenti di più** entro tre giorni, e solo a chi l'ha comprata: è la prima trappola della campagna.<br><br>Ha la **sensazione** in evidenza, apposta, perché **voleva farla vedere**. Al **Cap. 3** è alla porta e urla che è affar suo. Al **Cap. 6** scompare dal testo e riappare nella **firma** insieme a [[Tobia Ferraris]] come testimone.<br><br>Non è un nemico: è un uomo che ha venduto una rovina e che ha il diritto di riprendersela. L'odio che ha per il contrario è quello di chi ha vissuto con una promessa.|
+
+**◈ Abilità Speciali ◈**
+
+**Diritto di riscatto:** _Se i [PG] hanno comprato l'Ala Spezzata, Wilbur può riprenderla entro tre giorni al prezzo pagato **più 100 argenti**. DC 13 Intelligenza o Charisma (Persuasione) per capire che è un diritto e non una minaccia._
+
+**Ha visto tutto:** _Sa quanto costa una nave, quanto costa non averla, e quanto costano i pezzi. Vantaggio su qualunque prova legata al valore di cantiere._
+
+**Urla davanti ai testimoni:** _Non parla da solo: parla quando c'è gente. Se i [PG] lo affrontano in privato, non gli dice niente._
+
+**◈ Equipaggiamento ◈**
+
+Sei navi a pezzi · La sensazione, in vista apposta · Il registro di riscatto
+
+**◈ Arco Narrativo ◈**
+
+Wilbur è **il venditore che si è tenuto il diritto di riprenderselo**: la sua unica scena importante è al Cap. 1, e la sua unica firma è al Cap. 6. Se i [PG] lo dimenticano, lui non dimentica.
+
+**Ruolo nel party:** _Primo prezzo / diritto di riscatto._
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Primo incontro:** «Sei navi a pezzi e nessuna intera. Vuoi comprarle? Bene: ti dico esattamente cosa stai comprando, perché dopo non si discute.»<br><br>**Sotto pressione:** «Non minaccio. Ho un diritto, e il diritto scritto non ha bisogno di urlare.»<br><br>**Se mentito in faccia:** «Fallo leggere a qualcuno. No, non a me: a uno che sa leggere. Poi torna qui e dimmi se la tua versione regge tre giorni.»<br><br>**Se gli offrono più denaro:** «Non è un prezzo, è un diritto di riscatto. Cento argenti in più, tre giorni, e solo a chi l'ha comprata. Se fosse un prezzo, te l'avrei chiesto io.»<br><br>**In privato:** non dice niente. Aspetta che qualcuno passi, poi ripete tutto ad alta voce: parla **sempre** con testimoni.|**🤝 RELAZIONI**<br><br>[[Ivo Colon]] — il fratello che non gli parla da nove anni. Ivo ha in mano i documenti che dicono che i [PG] non dovevano comprare, e Wilbur lo sa senza averli mai letti.<br><br>[[Tobia Ferraris]] — testimone della firma al Cap. 6: l'unica firma che Wilbur ha apposto dopo la vendita, e la ricorda al minuto, compresa l'ora.<br><br>[[Nena Sarto]] — calafata: gli ha detto una volta sola quanto vale una nave ridotta a sei pezzi. Wilbur non ha mai più discusso il numero, e non ha mai più chiesto il suo parere.<br><br>[[Il Ragazzo-Cucchiaio]] — l'unico che gli porta il caffè senza chiedere niente in cambio. Wilbur gli ha insegnato a contare i chiodi, e non ha mai insegnato niente a nessun altro.<br><br>[[Cantiere Colon]] — il posto: sei navi a pezzi e la sensazione **in vista apposta**, appesa dove la vedono tutti.<br><br>[[Ala Spezzata]] — la cosa venduta e tenuta: il diritto di riprenderla per 100 argenti di più entro tre giorni, e solo da chi l'ha comprata.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I [PG] hanno comprato l'Ala Spezzata → Wilbur esercita il diritto entro tre giorni: 100 argenti in più e restituzione. **DC 13** (Intelligenza o Persuasione) per capire che è un diritto e non una minaccia. Se pagano, il cantiere torna loro con un debito in più e un testimone in meno.<br>• I [PG] pagano al quarto giorno → il diritto scade: da uomo con un diritto diventa testimone che chiede il doppio per parlare, e la sua firma al Cap. 6 vale il doppio — a **loro** sfavore.<br>• I [PG] lo picchiano → non risponde, si lascia fare davanti a testimoni. Conseguenza: ogni documento che ha toccato Wilbur diventa contestabile, la firma del Cap. 6 non vale più, e la trappola del Cap. 1 si chiude contro i [PG].<br>• I [PG] lo ignorano → al Cap. 6 la firma c'è lo stesso, insieme a [[Tobia Ferraris]], e il diritto scade senza tornare più. È la prima cosa che i [PG] perdono per non aver parlato.<br>• I [PG] salvano l'Ala Spezzata da un incendio o da un crollo → Wilbur rinuncia al diritto per iscritto, in tre righe: da quel momento il cantiere è un luogo alleato e la manodopera costa metà, una volta per capitolo.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 1** — la prima trappola della campagna: il diritto di riscatto. Leggere la clausola **ad alta voce, con i numeri**: tre giorni, cento argenti, solo a chi ha comprato. Nessuna musica, nessun nemico, solo un pezzo di carta.<br><br>**Cap. 3** — è alla porta e urla che è affar suo. Usare la sua voce per far entrare i testimoni nella scena: il rumore che Wilbur fa **prima** di parlare è metà del suo effetto.<br><br>**Cap. 6** — la firma insieme a [[Tobia Ferraris]]. Deve sembrare un caso: due nomi su una riga, e nessuno dei due che commenta.<br><br>**Nota per il DM:** non è un nemico. È l'uomo che ha venduto una rovina e si è tenuto il diritto di riprendersela. Se i [PG] trattano il diritto come una truffa, il GM deve mostrare che il diritto c'era **scritto prima** della firma — e che l'odio che ha per il contrario è quello di chi ha vissuto con una promessa.|

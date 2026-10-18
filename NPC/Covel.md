@@ -1,0 +1,21 @@
+---
+aliases:
+  - "Covel"
+  - "il mastro-carpentiere"
+---
+|   |   |   |
+|---|---|---|
+|**Covel — il mastro-carpentiere (Cap. 1-8)**<br><br>_Vecchio saldatore di [[Port Vantus]], grembiule di cuoio e occhiali da saldatura \|_ **Alleato / datore di lavoro**|   |   |
+|**Razza:** Umano   **Classe:** Civile (mastro d'ascia e motori)   **Livello/CR:** CR 1/2   **Allineamento:** Legale Neutrale|   |   |
+|**FOR**<br><br>15 (+2)|**DES**<br><br>9 (−1)|**COS**<br><br>14 (+2)|**INT**<br><br>13 (+1)|**SAG**<br><br>14 (+2)|**CAR**<br><br>11 (+0)|
+|**HP:** 22 (4d8+4)   **CA:** 12 (grembiule di cuoio)   **Velocità:** 30 piedi   **Bonus Competenza:** +2|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Tecnologia/Meccanica +6, Percezione +4, Intuizione +4, Storia +3|   |   |**Tiri Salvezza Competenti**<br><br>COS +4|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- **Chiave inglese pesante:** +4 per colpire, 1d6+2 contundente. Non è un guerriero: se combatte, è perché è arrivato tardi.<br>- **Voce ai motori:** fuori combattimento, calma il machine-spirit di una macchina danneggiata (Tecnologia CD 15: ripristina 1 uso di un sistema guasto). Nessun Tecnoprete lo fa meglio.<br>- **Mani che leggono:** riconosce a vista la provenienza di un pezzo di nave (provenienza, età, se è "rubato"). Su Vantus vale più di una spada.|   |   |   |   |   |
+|**Background e Personalità**<br><br>[[Covel]] smonta e rimonta navi morte dalla vita. Parla ai motori come a bestie («brava, brava, non ti fa male»). Ha un figlio apprendista, [[Wick]], che **sa leggere** — cosa rarissima su Vantus. Quando Wick sparisce, Covel non chiama le autorità (non esistono): chiama chi ha una nave. Offre la **riparazione del Gellar field gratis** in cambio del figlio.<br><br>**Motivazione:** riprendersi il figlio, e non far sapere in giro che suo figlio lavora meglio di un Tecnoprete.<br><br>**Ruolo in campagna:** àncora morale del Cap. 1 e **fornitore di riparazioni** per tutta la Parte I.<br><br>**Appare nei capitoli:** 1–8|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Primo incontro:** «Vedova di Ferro, motore vecchio, Gellar field che canta. Ve lo sistemo io. Gratis. Se mi riportate mio figlio.»<br>**Sui motori:** «Il canto non è un guasto. È la nave che ascolta il vuoto. Le ho tenuto il canto.»<br>**Se il tavolo rifiuta il dono:** «Non lo facevo per voi. Lo facevo per lui.»|**🤝 RELAZIONI**<br><br>[[Wick]] — il figlio apprendista, la cosa che sa leggere e che gli Smembratori hanno comprato.<br>[[Port Vantus]] — il mondo che gli ha dato un mestiere e niente altro: "qui si ricicla anche la gente".<br>La ciurma — clienti con un debito che non si paga in lamine: la ciurma gli deve **un figlio**.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG non riportano [[Wick]] → Covel ripara **male**: il Gellar field canterà a ogni salto, e il primo salto lungo (Cap. 17) sarà un problema serio.<br>• I PG dicono a Covel che Wick è morto → il vecchio non piange, sistema una paratia e non parla per tre giorni; al Cap. 5 lascia la ciurma senza riparazioni future.<br>• I PG vendono Wick per soldi → Covel dà comunque la riparazione ("per lui"), e poi non vuole più vederli.<br>• I PG gli chiedono il significato dei simboli → «I Tecnopreti ti darebbero mezzo mondo per averla, e poi ti chiederebbero dove l'hai trovata.» Non sa leggere i simboli: sa solo che non sono dell'Impero.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 1:** offre la riparazione; la sua richiesta apre la Scena 4 e il Bacino.<br>**Cap. 2-3:** tiene la [[Vedova di Ferro]] in cantiere; è il gancio per la "dote" (paga in riparazioni, non in crediti).<br>**Cap. 5:** sa lui cosa c'era nel [[Reliquiario di Vantus]], o meglio: sa **cosa non era**.<br>**Cap. 8:** la sua officina è il luogo del primo vero sacrificio della Parte I.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **In combattimento:** non combatte. Se costretto, si mette davanti al figlio e non si sposta.<br>• **Nel cantiere:** ha **trappole da officina** (una pressa, un cavo in tensione, un saldatore): 1 uso a scena, 2d6, a chi non guarda dove mette le mani.<br>• **1d6 ambiente:** 1-2 una saldatura cede e fa rumore (dà via la posizione dei PG); 3-4 scambia due pezzi di motori diversi (perde mezz'ora, non è un malus); 5-6 racconta una storia di navi morte, utile al tavolo.|   |

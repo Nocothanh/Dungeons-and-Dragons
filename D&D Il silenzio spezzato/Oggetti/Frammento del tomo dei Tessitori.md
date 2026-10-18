@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**Frammento del Tomo dei Tessitori**<br><br>_Oggetto Meraviglioso (Tomo Magico) \| Raro_|   |
-|**SINTONIZZAZIONE**<br><br>Richiesta (Incantatore)<br><br>**OTTENUTO AL**<br><br>Capitolo 5<br><br>**FONTE**<br><br>Archivio segreto della Torre del Consiglio, Golthaven|**DESCRIZIONE**<br><br>_Pagine bruciacchiate riegate in cuoio di colore indaco, scritte in un linguaggio che cambia ogni volta che si riapre il libro (richiede un incantesimo di comprensione del linguaggio o Arcano DC15). Il testo descrive rituali proibiti dei Tessitori del Vuoto e tecniche di manipolazione del silenzio magico._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Con una prova di Arcano DC15 e 10 minuti di studio, rivela informazioni dettagliate su qualsiasi oggetto o creatura legata alla magia del vuoto (funziona come 'Identificazione' potenziata per questi target).<br>- Contiene l'incantesimo 'Silenzio' come rituale (non occupa slot di incantesimo).<br>- Studiando un capitolo per riposo lungo (max 5 capitoli totali), il portatore ottiene vantaggio permanente su prove di Arcano relative ai Tessitori del Vuoto.|
-|**LORE:** _È un frammento dell'opera originale di Vael Mordechai, scritta 300 anni fa prima che diventasse un Lich. La magia che cambia il testo è una protezione per evitare che venga copiato integralmente._|   |

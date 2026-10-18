@@ -1,2 +1,0 @@
-**La Strada per [[Caer Dun]]** Viaggio verso nord. Imboscata da parte di briganti — non comuni: sono soldati disertori di un piccolo regno decaduto, guidati da [[Oswin il Tagliagole]], un guerriero con un passato come cavaliere decaduto. Può essere sconfitto o convinto a ritirarsi. Se i giocatori lo risparmiano, tornerà più avanti come alleato imprevedibile. Incontro ambientale: una mandria di Elk giganti attraversa la strada — sacri ai druidi, ucciderli attira guai.
-[[Dornach Il Giavellotto del Corvo]]

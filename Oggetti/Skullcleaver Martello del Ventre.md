@@ -1,0 +1,32 @@
+
+|                                                                                                                                                     |          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| **Skullcleaver — Martello del Ventre**<br><br>_Arma (martello da guerra), Magica · Trovato al Capitolo 27 — Le Miniere di Ynys · Richiede sintonia_ | **RARO** |
+
+_Un martello da guerra massiccio con la testa di pietra nera estratta dalle profondità delle miniere di Ynys — la stessa pietra che circonda il quarto nodo di ley. Emette un ronzio basso e costante, come una voce troppo lenta per essere capita._
+
+**PROPRIETA'**
+
+**+2 Attacco e Danni:** Bonus magico di +2.
+
+**Onda d'Urto:** Quando si ottiene un colpo critico, il colpo emette un'onda di forza. Tutte le creature entro 10 piedi dal bersaglio devono superare un TS Cos CD 15 o essere Spinte di 10 piedi e Atterrate a terra.
+
+**Grido del Ventre:** 1/giorno: il portatore urla (usando il martello come focus) e libera un'onda psichica. Tutte le creature entro 20 piedi devono superare un TS INT CD 15 o essere Stordite fino alla fine del loro prossimo turno. Il portatore subisce 2d6 danni psichici nell'usarlo.
+
+**Resistenza Aberrante:** Il portatore ha resistenza ai danni psichici e vantaggio sui TS contro effetti di charme o paura da creature aberranti.
+
+_L'Occhio che Ricorda non ha creato questo martello — ma lo ha lasciato nelle miniere come si lascia cibo per un animale selvatico. Voleva vedere cosa avrebbero fatto i mortali con un frammento del suo mondo._
+
+**Nota per il DM:** _Arma per chi vuole un ruolo di controllo oltre che danno puro. 'Grido del Ventre' è un potere devastante con un costo reale — il danno al portatore lo rende una scelta, non un automatismo. Funziona bene su personaggi con Cos alta._
+
+|   |   |
+|---|---|
+|**STORIA & ORIGINE**<br><br>La testa del martello è ricavata dalla pietra nerissima che avvolge il quarto nodo di ley delle [[Le miniere di Ynys]], contaminata dall'influenza dell'Occhio che Ricorda. Non forgiato da esso, ma cresciuto dal materiale stesso. Le venature pulsanti sono tentacoli pietrificati dell'Abisso che cercano di fuoriuscire dalla presa del metallo.|**DOVE & COME OTTENERLO**<br><br>Trovato al Capitolo 27 — Le Miniere di Ynys, nelle profondità dove il nodo di ley è più esposto. Può essere prelevato dopo aver neutralizzato la minaccia. Prezzo stimato (se vendibile): 4000 mo, in molti mercati sarebbe considerato maledetto.|
+|**OGGETTI COLLEGATI & CONTROPARTI**<br><br>Occhio che Ricorda — influenza sotterranea.<br>[[Le miniere di Ynys]] — luogo di estrazione.<br>[[Seme dell'albero sacro]] — contrappunto di rigenerazione vs corruzione abissale.|**INCIDENTI (1d6)**<br><br>1. **Ronzio che sale**: 1d4 danni psicologici al portatore mentre brandisce, orecchie fischiano.<br>2. **Tentacoli pietrificati**: Onda d'Urto colpisce anche il portatore (1d4 danni da forza) per la sua stessa energia.<br>3. **Presenza dell'Occhio**: creature aberranti entro 15 m diventano consapevoli del portatore (possono cambiare comportamento).<br>4. **Grido retrospettivo**: usando Grido del Ventre, il portatore subisce 2d6+2 danni psichici anziché 2d6.<br>5. **Ventre si apre**: terreno sotto bersaglio cede; crea zona difficile per 1 round (3 m raggio).<br>6. **Pietra reclama**: dopo colpo critico, il portatore deve superare TS Saggezza DC 14 o avere svantaggio su attacchi successivi per 1 round (vertigini).|
+|**NOTE DI BILANCIAMENTO**<br><br>Arma potente (+2, CC con AoE, 1/giorno Stordire) destinata a guerrieri di livello 7–9. Il costo reale di Grido del Ventre e gli incidenti scoraggiano l'uso spam; resistenza ai danni psichici e vantaggio contro charm/paura aberranti sono tematicamente giustificati. Evitare di darla a personaggi fragili di volontà.|   |
+
+|   |   |
+|---|---|
+|**SINERGIE IN COMBATTIMENTO**<br><br>**[[Scudo del generale Sven]]** — impugnati insieme, l'Onda d'Urto del colpo critico non spinge mai gli alleati entro 10 piedi: il disco dello scudo assorbe l'onda.<br><br>**[[Elmo della volontà impertubabile]]** — il portatore diventa immune ai tentativi di fuga psichica: il ronzio riempie il vuoto che l'elmo tappava. Vantaggio in più sui TS contro charme aberrante.<br><br>**[[Seme dell'albero sacro]]** — piantato nel terreno prima dello scontro, il seme attutisce il contraccolpo: il portatore non rischia mai di essere spinto dalla propria Onda d'Urto.<br><br>**[[Gorrak il Forgiatore]]** — per 300 mo può incastrare nella fessura della testa una venuta di legno sacro: il danno psichico del Grido del Ventre scende da 2d6 a 1d6, una sola volta e in modo permanente.<br><br>**[[Varek il Divoratore]]** — creature legate a Varek riconoscono la pietra del nodo e non attaccano il portatore per primo, ma lo circondano.|**TATTICHE & USI (1d6)**<br><br>1. **Via d'uscita** — il colpo critico può essere deviato su una parete: il bersaglio sbatte e subisce 1d6 danni da forza in più, senza TS (perde il beneficio della Spinta).<br>2. **Passo d'assalto** — spingendosi col martello sul pavimento compie un salto di 10 piedi che ignora il terreno difficile (Prova di Atletica DC 12).<br>3. **Base alleata** — un alleato entro 5 piedi che si trova a terra può rialzarsi senza mettersi in ginocchio usando il martello come appoggio.<br>4. **Ronda** — piantato a terra durante il riposo, il ronzio avverte di creature aberranti entro 60 piedi (Percezione passiva 13).<br>5. **Patto di sangue** — il portatore può offrire 1 punto di vita volontario e mantenere il Grido del Ventre disponibile per un secondo turno nello stesso giorno (una volta sola).|
+|**IDEE PER IL DM**<br><br>1. **L'Occhio che Ricorda lo vuole indietro** — una creatura aberrante ignora ogni PG e va dritta verso il martello, anche a costo di esporsi. Non vuole uccidere: vuole riportarlo nella miniera.<br>2. **Il nodo risponde** — mentre il martello è in superficie, le vene di pietra nera delle [[Le miniere di Ynys]] si riaprono nella direzione in cui punta la testa: la mappa delle gallerie cambia a ogni riposo lungo.<br>3. **Offerta di Kharak Dùm** — un fabbro della città offre 2000 mo e un martello cerimoniale intatto in cambio della testa di pietra. Se i PG vendono, i nanici ricordano chi ha ceduto un pezzo del nodo: vantaggio su un compra-vendita, svantaggio su un altro.|   |
+

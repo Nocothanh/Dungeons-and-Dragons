@@ -1,0 +1,21 @@
+---
+aliases:
+  - "Raccoglitori"
+  - "i Raccoglitori"
+---
+|   |   |   |
+|---|---|---|
+|**i Raccoglitori — i servitori del Cassiere (Cap. 26, 31–32)**<br><br>_Mercanti di carne, firme e nomi a metà \|_ **Nemici mercenari**|   |   |
+|**Razza:** Umano (cacciatori di taglie del Porto)   **Ruolo:** raccoglitori di cancellati / esattori del banco   **Livello/CR:** CR 7 (×3, capo CR 8)   **Allineamento:** Neutrale Malvagio (per contratto)|   |   |
+|**FOR**<br><br>14 (+2)|**DES**<br><br>16 (+3)|**COS**<br><br>14 (+2)|**INT**<br><br>12 (+1)|**SAG**<br><br>12 (+1)|**CAR**<br><br>10 (+0)|
+|**HP:** 52   **CA:** 15 (giaco di cuoio + destrezza)   **Velocità:** 9 m   **Bonus Competenza:** +3|   |   |
+|**Tiri Salvezza Competenti:** DES +6, COS +5|   |   |**Abilità:** Percezione +4, Furtività +6, Intimidire +3|   |   |
+|**Resistenze:** —   **Immunità:** —   **Scurovisione:** 9 m|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>**Multiattacco:** 2 colpi di **retino-bacchetta** +6 (1d6+2; CD 14 FOR o il bersaglio è trattenuto) e 1 pugnale +6 (1d4+2).<br>**Reti e catene:** attrezzati per catturare "merce viva": vantaggio a trattenere un bersaglio già affaticato.<br>**Il taccuino:** ogni Raccoglitore annota i "pezzi" catturati; il capo ha un **taccuino di firme** — una lista di nomi già venduti.<br>**Mercanti, non fanatici:** non combattono fino alla morte; a metà PF (26) negoziano o fuggono con la merce.|   |   |
+|**Background e Personalità**<br><br>I [[Raccoglitori]] sono i **servitori del [[Cassiere]]**: raccolgono i cancellati che stanno svanendo e li vendono **a metà** — metà carne, metà firma. Per loro un senza-nome non è una persona: è **scorta**, **merce**, **un credito da incassare.**<br><br>**Il capo** (CR 8) porta un **occhio di vetro** e un taccuino; il suo occhio buono ti guarda e ti **stima.**<br><br>**Venti anni fa** presero la **figlia di [[l'Orfana]]**: per i Raccoglitori è solo un vecchio affare. Per l'Orfana, l'unico motivo per cui è ancora viva.<br><br>**Motivazione:** il profitto. Aggrediscono chi ha un nome da vendere e chi non può difendersi.<br><br>**Appare nei capitoli:** 26 (Parte IV) e 31–32, come braccio del banco.|   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Il mercato:** «Un nome a metà vale metà. Un nome intero vale tutto. Voi quanto valete? Lo misuriamo.»<br>**L'offerta (Cap. 26):** «Vi propongo uno scambio semplice: la nave per la vecchia. Voi tenete la vecchia, noi teniamo la nave. Affare da mercanti.»<br>**Sulla figlia di [[l'Orfana]]:** «Quella? Venduta vent'anni fa. Buon prezzo. Niente di personale.»<br>**Se vengono battuti:** «Fermi! Siamo mercanti. Tutto si può trattare — anche voi.»|**🤝 RELAZIONI**<br><br>[[il Cassiere]] — il loro padrone e committente.<br>[[l'Orfana]] — la loro vecchia vittima: la figlia rapita è il suo movente.<br>[[Bral]] — rivale/collega nel traffico del Porto.<br>[[Vex]] — li conosce e li evita.<br>La ciurma — "merce viva" da stimare e incassare.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG **accettano lo scambio** → perdono la nave: il [[Cassiere]] incassa, la ciurma resta al Porto.<br>• I PG **li combattono** → a metà PF i Raccoglitori negoziano (non muoiono per soldi).<br>• **Un Raccoglitore pentito** (Cap. 26) → rivela dove finiscono i cancellati: una pista per [[l'Orfana]].<br>• Il **taccuino del capo** cade in mano ai PG → nomi già venduti, incluso quello della figlia di [[l'Orfana]].|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 26:** attaccano i cancellati; offrono lo scambio "nave per l'Orfana".<br>**Cap. 31–32:** esattori del banco nella resa dei conti col [[Cassiere]].<br>**Come Nemici:** veloci, con reti e catene — pensati per catturare, non per uccidere.<br>**Come Fonte:** il taccuino e i prigionieri sono la mappa del traffico di firme del Porto.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **×3 (poi ×6):** se il tavolo regge, il capo richiama altri due dal mercato.<br>• **Specialisti della cattura:** mirano a trattenere e trascinare via — se un PG è a 0 PF, lo **legano**, non lo finiscono.<br>• **Il capo (CR 8, occhio di vetro):** CA 16, PF 70, ordina e stima; se muore, gli altri fuggono.<br>• **Fuga con la merce:** non gli interessa vincere, ma **incassare** — fuggono se il prezzo supera il guadagno.|   |

@@ -1,9 +1,0 @@
-
-|   |   |
-|---|---|
-|🪄 **Tappeto Volante Rattoppato**<br><br>Oggetto Magico · **Raro** · Trovato: Cap. 24 — Il Sesto Nodo: La Guglia Spezzata<br><br>_📍 Fornito da Dara la Cieca dai magazzini della rete dei Senza Occhi_|   |
-|**ASPETTO**|Un tappeto di lana tessuto in pattern geometrici rossi, arancioni e oro — o almeno così era. Ora è sbiadito, con tre toppe di tessuto diverso (una verde, una beige, una a strisce) cucite in punti strategici. I bordi sono sfilacciati. Eppure, quando si attiva, si raddrizza e vola con una dignità quasi commovente.|
-|**STORIA**|Il tappeto ha almeno duecento anni ed è passato per mezza dozzina di proprietari prima di finire nei magazzini dei Senza Occhi. Dara dice di averlo vinto in una partita a carte da "qualcuno che non lo meritava". Il tappeto non ha nome ufficiale, ma i Senza Occhi lo chiamano "Il Vecchio Orgoglioso".|
-|**MECCANICA**|Velocità di volo: 40 piedi per round.<br><br>Capacità massima: 400 libbre (circa 180 kg).<br><br>Ogni ora di volo continuato: il DM tira 1d20 in segreto. Con un 1: una toppa si stacca. Il tappeto non cade subito — perde 10 piedi di quota immediatamente e la velocità scende a 20 piedi per quell'ora.<br><br>Se tutte e tre le toppe si staccano nella stessa sessione: il tappeto si ferma in aria, vibra rumorosamente e si rifiuta di volare per 1 ora (servizio rifiutato).|
-|**SPECIALE**|Se riportato a un artigiano tessile esperto (Ashenmoor, Gilda dei Sarti): un restauro completo costa 150 mo, richiede 3 giorni e rimuove la meccanica delle toppe. Il tappeto diventa un normale Tappeto Volante senza difetti.|
-|**NOTE DM**|Questo oggetto deve essere divertente. Fai tirare il dado alle sessioni giuste — un momento di caos durante un volo rischioso è memorabile. Non farlo mai "fallire fatalmente": il tappeto è eccentrico, non mortale.|

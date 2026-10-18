@@ -1,0 +1,30 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**FOR**<br><br>**13 (+1)**|**DES**<br><br>**15 (+2)**|**COS**<br><br>**13 (+1)**|**INT**<br><br>**16 (+3)**|**SAG**<br><br>**15 (+2)**|**CAR**<br><br>**12 (+1)**|
+
+|   |   |
+|---|---|
+|**◈ INFORMAZIONI**<br><br>**Razza:** Umano (non di Meckburn)<br><br>**Classe:** Acquirente<br><br>**Livello:** 4<br><br>**Allineamento:** Neutrale<br><br>**Background:** Ha comprato sei isole e le ha perse in un giorno<br><br>**Età:** non dichiarata<br><br>**Aspetto:** Un nome che compare sempre in un registro e mai in una stanza|**◈ BACKSTORY**<br><br>Vesper Terzi **paga l'ottone in Meckburn da quattro mesi**, non è di Meckburn, ha comprato **sei isole** e le sei isole gli sono state **revocate in una sola seduta**, per *mancato mantenimento del debito di quota*. **Non è un criminale: è un uomo che ha capito presto.**<br><br>Al **Cap. 1** il suo nome è la prima prova che il sistema è ingiusto. Al **Cap. 2** il **registro d'attracco** ([[Odile Ferrando]]): ha attraccato **undici volte in quattordici giorni**, l'ultima volta a **Cima Saffiro**, e **non è tornato**. Odile mente su una cosa sola: dice che *«è andato via»* e non dice **dove**; e dice *«non è tornato»* con la voce di chi aspetta.<br><br>Ha capito che la sua nave **tirava sotto**, e che era la **nave** a essere il problema. Al **Cap. 2** è solo un nome con tre palloncini e quattro mesi di buone intenzioni — **non inventare subito il suo ruolo**. Al **Cap. 12** la prova che non ha mai rubato niente.|
+
+**◈ Abilità Speciali ◈**
+
+**Undici attracchi:** _La prova più concreta della prima parte: undici attracchi in quattordici giorni non sono commercio, sono attesa._
+
+**Niente di illegale:** _Se i [PG] lo cercano come criminale, non lo trovano: è un acquirente che ha perduto. È peggio._
+
+**L'ultimo attracco a Cima Saffiro:** _Duemilacinquecento piedi: è andato dove non si va. Se i [PG] seguono, seguono la pista giusta_
+
+**◈ Equipaggiamento ◈**
+
+Sei isole revocate · Tre palloncini · Un registro d'attracco con undici righe
+
+**◈ Arco Narrativo ◈**
+
+Vesper Terzi è **il cliente che il sistema ha mangiato**: la campagna lo usa per mostrare cosa succede a chi paga regolarmente e poi perde tutto in una seduta. Non è un mistero da risolvere: è il **precedente**.
+
+**Ruolo nel party:** _Precedente / assenza al molo._
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Primo incontro:** «Quattro mesi che pago. Sei isole. Un giorno. Vuoi il registro o vuoi il mio nome? Il nome non serve a niente, il registro sì.»<br><br>**Sotto pressione:** «Non ho rubato niente. È scritto. È tutto scritto, e non c'è una riga che dica il contrario.»<br><br>**Se mentito in faccia:** «Anche a me l'hanno detto: *è andato via*. E l'altro: *non è tornato*. Guarda il registro e dimmi qualcuno dei due ha mento.»<br><br>**Se gli chiedono di Cima Saffiro:** abbassa la voce: «Duemilacinquecento piedi. Ci sono arrivato con una nave da mille. Ora dimmi che non è colpa mia.»<br><br>**Se gli offrono argenti:** non li tocca: «Non è questione di soldi. È che ho pagato regolarmente e mi hanno tolto tutto in una seduta. Tu lo rifaresti, di pagare?»|**🤝 RELAZIONI**<br><br>[[Odile Ferrando]] — gli ha visto attraccare undici volte in quattordici giorni ed è l'unica che gli ha chiesto *dove* e non *quanto*. Per questo non è tornato da lei: la domanda giusta gli fa paura più di quella sbagliata.<br><br>[[Nena Sarto]] — gli ha detto in faccia che una nave non è un'isola, quattro parole e nient'altro. Per un mese è tornato al molo solo per sentirle ripetere, e poi ha smesso.<br><br>[[Cima Saffiro]] — duemilacinquecento piedi: è andato dove non si va, ed è l'unico punto della sua storia in cui i [PG] possono camminare davvero sulla sua pista.<br><br>[[Sommariva]] — l'ultimo registro che porta il suo nome prima che sparisse; il GM tenga la data coincidente con l'ultimo attracco, senza commentarla.<br><br>[[Magazzino delle Quote]] — la seduta che gli ha tolto le sei isole: mezzogiorno per revocare, le sedici per una firma che lui non ha mai visto.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I [PG] lo aiutano a riavere le isole → al **Cap. 12** consegna la prova che non ha mai rubato niente, senza chiedere nulla in cambio: è il documento che cambia l'accusa contro i [PG], e lui non compare mai nella storia di come è finito tra le mani giuste.<br>• I [PG] gli rubano il registro → gli undici attracchi non sono più documentabili: al **Cap. 2** l'indizio costa **due giorni** in più e una Persuasione DC 16 con un doganiere che mente per abitudine.<br>• I [PG] lo accusano di crimine → Indagare DC 12 su qualunque registro lo scagiona in un giorno. La cosa peggiore è che è innocente e ha perso comunque tutto: è la prova, a tavolo, che il sistema non serve a trovare i colpevoli.<br>• I [PG] lo ignorano → al **Cap. 2** il suo nome resta tre palloncini e quattro mesi di buone intenzioni, e al **Cap. 12** riappare come intestatario di un conto mai aperto: nessuno lo commenta, e i [PG] che ricordano il molo capiscono da soli.<br>• I [PG] lo uccidono → il registro d'attracco sparisce con lui: Cima Saffiro diventa un posto senza pista, e la scena di Cap. 12 si tiene senza il documento.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 1** — il suo nome è la prima prova che il sistema è ingiusto. Tre palloncini, quattro mesi, nessun ruolo: non inventare nient'altro, il suo valore sta nell'essere un nome.<br><br>**Cap. 2** — il registro d'attracco di [[Odile Ferrando]]: undici righe in quattordici giorni, l'ultima a Cima Saffiro. È qui che Vesper smette di essere un nome e diventa una pista.<br><br>**Cap. 12** — la prova che non ha mai rubato niente. Consegnarla **prima** che i [PG] la chiedano: è il modo in cui il precedente torna a pagare il conto.<br><br>**Nota per il GM:** non è un mistero da risolvere, è il **precedente**. Se i [PG] lo cercano come un criminale, non lo trovano: è un acquirente che ha perduto, e peggio.|

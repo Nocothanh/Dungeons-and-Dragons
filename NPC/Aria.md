@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Aria**<br><br>_Void Agent — la custode \|_ **Nemico/Possibile Alleato**|   |   |   |   |   |
+|**Razza:** Umano **Classe:** Void Agent (custode) **Livello/CR:** CR 13+ (stima) **Allineamento:** Legale Neutro|   |   |   |   |   |
+|**FOR**<br>14 (+2)|**DES**<br>17 (+3)|**COS**<br>15 (+2)|**INT**<br>16 (+3)|**SAG**<br>15 (+2)|**CAR**<br>14 (+2)|
+|**HP:** 160 (stima)   **CA:** 18   **Velocità:** 30 piedi   **Bonus Competenza:** +5|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Arcano +8, Storia +8, Percezione +7|   |   |**Tiri Salvezza Competenti**<br><br>INT +8, DES +8|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- **Custode:** ruolo di **guardiana** (non esecutrice) nella Void Police (Cap. 65).<br>- **Apre le nicchie (Cap. 70):** fa entrare gli alleati di [[The Man in the Void]] nel **gauntlet**, aggiungendo un round di nemici.<br>- **Evocabile dal Boss:** [[Void Cranstin]] può evocarla "aprendo le porte" (Cap. 70).<br>- **Può essere risparmiata:** nel finale è tra gli alleati "se risparmiata" (Cap. 70).<br>- **Non confonderla:** Aria è **custode**, [[Sonata]] è **esecutrice**, [[Void Cranstin]] è **il Boss** (Cap. 65).|   |   |   |   |   |
+|**Background e Personalità**<br><br>**Aria** è un'**Agente della Void Police** con ruolo di **custode** (Cap. 65). Opera nel **Reame delle Memorie** (Cap. 68) e nel **finale** (Cap. 70), dove apre le **nicchie** per far entrare gli alleati di [[The Man in the Void]] nel gauntlet. Non è una figura monoliticamente malvagia: nel finale può essere **risparmiata** e schierarsi tra gli alleati della saga.<br><br>**Motivazione:** la Void Police (poi, se risparmiata, la ciurma).<br><br>**Ruolo in campagna:** Agente-custode dell'arco void; possibile alleato del finale.<br><br>**Appare nei capitoli:** 65 (citata), 68, 70|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Non documentato** (battute non riportate).<br>**Tono suggerito:** calmo, formale; da custode, non da carnefice.|**🤝 RELAZIONI**<br><br>[[Void Cranstin]] — il Boss.<br>[[Sonata]] — Agente 01, esecutrice (ruolo opposto).<br>[[Crystal Pete]] — Agente 05.<br>[[The Man in the Void]] — di cui apre le nicchie (Cap. 70).<br>[[Trevor]], [[Little Ricky]] e gli [[The Eight Flames|Eight Flames]] — alleati del finale "se risparmiata".|
+|**❓ COSA SUCCEDE SE...**<br><br>• Il tavolo la **risparmia** → compare tra gli **alleati della saga** nel finale (Cap. 70).<br>• Il tavolo la uccide → il gauntlet perde un round di nemici, ma la scena regge; non è un boss.<br>• Il tavolo la confonde con [[Sonata]] → errore da non commettere (Cap. 65).|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 68:** presenza nel Reame delle Memorie.<br>**Cap. 70:** apre le nicchie (aggiunge nemici); se risparmiata, si schiera con gli alleati. Giocare il suo "redimersi" come scelta del tavolo, non come colpo di scena scritto.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• Agente-custode: attacchi +8, ~2d8+3; più portata narrativa che offensiva.<br>• **Apre le nicchie:** evocazione/portale (Cap. 70).<br>• **Scheda scarna:** i capitoli ne danno ruolo (custode) e funzione (Cap. 65, 68, 70). CA/PF **stimati**.|

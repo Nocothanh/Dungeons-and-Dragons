@@ -1,3 +1,0 @@
- I[[Le Pietre di Vortigern]]l cerchio megalitico è sorvegliato da un ordine di druidi chiamati i **Custodi del Cerchio** — neutrali, antichi, che non si schierano con nessun regno. Il loro capo, **Archidruido Bran**, è vecchissimo e parla per metafore. Il nodo qui non è corrotto — è protetto. Ma qualcuno ha già tentato di violarlo: i cadaveri di tre figure incappucciate giacciono ai piedi delle pietre. Portano tutti lo stesso simbolo: un serpente che si mangia la coda.
- [[Pettorale della Quercia Verde]]
- 

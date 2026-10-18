@@ -1,0 +1,20 @@
+---
+aliases:
+  - "Pearl"
+---
+|   |   |   |
+|---|---|---|
+|**Pearl — L'inizio (Cap. 1-8)**<br><br>_Ragazza dagli occhi e capelli rosa, salvata in spiaggia \|_ **Alleata della ciurma**|   |   |
+|**Razza:** Metà-drago (nascosta in questa fase: la ciurma non lo sa)   **Classe:** Combattente (istinto da cacciatrice) / Frutto del Diavolo (cucina col fiato)   **Livello/CR:** Alleata liv. 1–3   **Allineamento:** Caotico Buono|   |   |
+|**FOR**<br><br>14 (+2)|**DES**<br><br>17 (+3)|**COS**<br><br>14 (+2)|**INT**<br><br>10 (+0)|**SAG**<br><br>12 (+1)|**CAR**<br><br>14 (+2)|
+|**HP:** 12 (1d8+2)   **CA:** 13 (cuoio morbido + DES)   **Velocità:** 30 piedi   **Bonus Competenza:** +2|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Furtività +5, Percezione +5, Acrobazia +5, Intrattenere (cucina) +4|   |   |**Tiri Salvezza Competenti**<br><br>DES +5, CAR +4|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Artiglio (nascosto sotto il guanto): +5 per colpire, 1d6+2 taglienti.<br>- Cucina col fiato (fuori combattimento): accende qualsiasi fiamma di cottura con il respiro. Non lo ammette finché la ciurma non se la merita (Cap. 3).<br>- Riflessi felini: non può essere sorpresa mentre è in allerta.<br>- Grazia della mantella: se va a 0 PF durante una scena con la ciurma, resta a 1 PF con un rivolo d'occhio — il mistero del guanto resta mistero.|   |   |   |   |   |
+|**Background e Personalità**<br><br>Pearl si risveglia legata a una spiaggia con una pistola alla tempia; la ciurma la salva. Sarcastica e agguerrita, non è una marine e non è una ladra, e non lo dirà. Ha una scialuppa e sa dove riposare senza marine: [[Gallows Island]]. Sulla traversata cucina la carne col fiato e non risponde a nessuna domanda su come faccia.<br><br>**Motivazione:** sopravvivere e nascondere quello che la mantella copre.<br><br>**Ruolo in campagna:** guida iniziale, cuoca della nave, alleata fissa — mai protagonista.<br><br>**Appare nei capitoli:** 1–8 (poi cresce: vedi [[Pearl — Forma ibrida (Cap. 25-36)]])|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Primo incontro:** «Non siete nemici, prima. Vi devo un favore.»<br>**Sotto pressione:** «Cucino col fiato, indago col tanfo e sparisco prima che tu capisca la domanda.»<br>**Se mentitole in faccia:** «Il guanto lo tengo per me, tesoro. Tu torna quando avrai una storia tutta intera.»|**🤝 RELAZIONI**<br><br>[[Gallows Island]] — dove ti porta a riposare: "se non contate quelli che ci vengono a finire appesi".<br>[[Friggworth]] — carpentiere: le regala il lavoro di cucina in cambio di una traversata sicura.<br>La ciurma — il debito della spiaggia: lo paga in cibo, silenzi e un posto a bordo.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG la uccidono → non c'è cuoca, non c'è drago, e la cena del Cap. 3 non rivela nulla: il filo "frutto" si chiude in anticipo.<br>• I PG la attaccano o la rivendono → non perdona e sparisce al primo scalo; al Cap. 25 non c'è la sua fiamma.<br>• I PG la salvano e la portano alla cena del Cap. 3 → la ciurma "se la merita" e lei rivela il Frutto.<br>• I PG la ignorano → resta comunque al fianco: è lei che decide quando parlare.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 1:** salvata in spiaggia; alleata di livello 1 nel primo scontro (CA 13, artiglio 1d6+2).<br>**Cap. 2-3:** guida a [[Gallows Island]]; la traversata rivela la cucina col fiato.<br>**Cap. 5:** se va a 0 PF da [[Volt]], è **il momento perfetto per il drago** (nel podcast non accade: il capitano la cura).<br>**Cap. 7-8:** cuoca e seconda voce al tavolo; il suo guanto resta un mistero.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **In combattimento:** resta a distanza breve e morde con l'artiglio, mai prima linea "da protagonista".<br>• **Sotto 4 PF:** scatta, si mette alle spalle del bersaglio e colpisce (vantaggio alla prima azione).<br>• **1d6 ambiente:** 1-2 un'onda rovescia la barca (Acrobazia DC 12); 3-4 trova erbe/ingredienti per cucinare (guarisce 1d4 a fine scena); 5-6 fiuta un odore di bruciato prima di tutti (Percezione passiva 15).|   |

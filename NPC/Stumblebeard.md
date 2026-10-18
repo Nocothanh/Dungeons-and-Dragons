@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Stumblebeard**<br><br>_Capitano dei [[Stumblebeard Pirates]]; muore per tre "1" naturali \|_ **Nemico**|   |   |   |   |   |
+|**Razza:** Umano **Classe:** Capitano pirata (generale potente ma sfortunato) **Livello/CR:** CR 8 (stima) **Allineamento:** Caotico Malvagio|   |   |   |   |   |
+|**FOR**<br>17 (+3)|**DES**<br>12 (+1)|**COS**<br>15 (+2)|**INT**<br>10 (+0)|**SAG**<br>11 (+0)|**CAR**<br>14 (+2)|
+|**HP:** 100 (stima)   **CA:** 16   **Velocità:** 30 piedi   **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Intimidire +5, Atletica +6, Percezione +3|   |   |**Tiri Salvezza Competenti**<br><br>FOR +6, CAR +5|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- **Sciabolone:** +6, 2d6+3 tagliente.<br>- **Ordini ai cannoni:** comanda il fuoco dei [[Stumblebeard Pirates]] (al Cap. 24 il cannone fa cilecca — un "1").<br>- **Sorte storta (regola narrativa):** **muore dopo tre "1" naturali** consecutivi/significativi (Cap. 47). Il GM li "pesca" davanti al tavolo, senza barare.<br>- **"Uccideteli tutti!":** crudele e rumoroso, non sottile.|   |   |   |   |   |
+|**Background e Personalità**<br><br>**Stumblebeard** è il **capitano** degli **[[Stumblebeard Pirates]]**. Compare già al **Cap. 24** (dove il suo cannone fa cilecca), e nel vero scontro tra **Cap. 46-47**. La sua fine è memorabile e **canonica**: **muore dopo tre "1" naturali**. I capitoli non ne approfondiscono il passato, ma il suo "grande" e sgangherato comando (con [[Trash Boy]] unico vero danno) è ben caratterizzato.<br><br>**Motivazione:** saccheggiare/pirateria.<br><br>**Ruolo in campagna:** capitano-nemico d'arco, tragicomico; la sua morte è affidata al **dado**.<br><br>**Appare nei capitoli:** 24 (citato), 46-47|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Cap. 24:** vedendo il cannone fare cilecca: «Aggiungetene un secondo!»<br>**Cap. 46-47:** ordini brutali alla ciurma.<br>**Tono:** spaccone, violento, sempre più sfortunato.|**🤝 RELAZIONI**<br><br>[[Trash Boy]] — l'unico che fa vero danno nella sua ciurma.<br>I [[Stumblebeard Pirates]] — la sua ciurma.<br>La ciurma dei [PG] — avversari al Cap. 46-47.<br>[[Card Man]] — compare al primo round dello scontro.|
+|**❓ COSA SUCCEDE SE...**<br><br>• Il GM bara sui "1" → tradirebbe il canone e il senso comico della sua morte. **Non barare.**<br>• Il tavolo lo uccide prima dei tre "1" → non è il canone, ma la trama regge: era comunque un capitano-secondario.<br>• Sopravvive → sconsigliato: la sua fine sfortunata è il suo tratto distintivo.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 46-47:** giocarlo come **caricatura del capitano pirata**: minaccia grossa, caduta grottesca. La morte sui tre "1" va **tirata in chiaro** davanti al tavolo: è il suo momento.<br>Contrapposto a lui, [[Trash Boy]] è la vera minaccia.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Sciabolone:** +6 (2d6+3).<br>• **Morte per tre "1":** regola narrativa obbligatoria (Cap. 47).<br>• **Controllo cannoni:** può ordinare un fuoco di ciurma (danno d'area), spesso sfortunato.<br>• **Scheda scarna:** i capitoli danno ruolo e morte (Cap. 24, 46-47). CA/PF **stimati**.|

@@ -1,2 +1,0 @@
-**Il Sesto Nodo Perduto** Corsa verso il sesto nodo — già attivato. Arrivo troppo tardi: il luogo è devastato, i Custodi lì presenti sono morti, e c'è un cratere dove era il santuario. Nell'aria rimane il residuo dell'Ouroboros — e qualcosa di altro. Un'entità fuggita dal Ventre di Albione attraverso il nodo aperto: **Il Cacciatore Selvaggio**, uno **Yeth Hound** colossale che ora vaga per la notte di Albione. Non serve nessuno — è istinto puro.
-[[Libro dei Nomi Perduti]]

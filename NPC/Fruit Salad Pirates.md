@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Fruit Salad Pirates**<br><br>_La ciurma degli "uomini-frutta" \|_ **Gruppo / Fazione — Nemico**|   |   |   |   |   |
+|**Leader:** [[Pineapple Man]] **Tipo:** Ciurma pirata (tema frutta) **Base:** nave/rotta della Parte 5 (Cap. 46-48)|   |   |   |   |   |
+|**Forza tipica**<br>CR 4-6|**Effettivi**<br>Banda|**Origine**<br>Cap. 46-48|**Metodo**<br>Poteri da Frutti "frutta", disciplina interna spietata|**Area**<br>Acque della Parte 5|**Minaccia**<br>Media/Alta (Frutti)|
+|**HP / CA tipici:** 45-80 / 14-16 per membro **Velocità:** 30 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità di Gruppo**<br><br>Intimidire, Percezione, Atletica|   |   |**Composizione nota**<br>[[Pineapple Man]] (capitano), [[Apple Man]] (giustiziato dalla propria ciurma), [[Banana Man]] (Bana Bana no Mi), [[Strawberry Man]]|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Tattiche Speciali**<br><br>- **Frutti "frutta":** i membri hanno poteri tematici (es. [[Banana Man]] con il **Bana Bana no Mi**).<br>- **Disciplina spietata:** al **Cap. 48** [[Apple Man]] viene **giustiziato dalla stessa ciurma**.<br>- **Struttura:** capitano [[Pineapple Man]]; gregari con temi diversi (Ananas, Mela, Banana, Fragola).|   |   |   |   |   |
+|**Background e Motivazione**<br><br>I **Fruit Salad Pirates** sono una **ciurma a tema frutta** al centro della Parte 5 (**Cap. 46-48**). Tra i nomi noti: [[Pineapple Man]] (capitano), [[Apple Man]] (**giustiziato dalla propria ciurma**), [[Banana Man]] (portatore del **Bana Bana no Mi**) e [[Strawberry Man]]. La ciurma è tematica e spietata al proprio interno. Obiettivo: pirateria.<br><br>**Ruolo in campagna:** ciurma-boss d'arco, con conflitti **interni** oltre che esterni.<br><br>**Appare nei capitoli:** 46-48.|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO (esempi)**<br><br>**Tono:** dispotico, da capitano-intendente.<br>[[Pineapple Man]]: (capitano; battute non documentate).<br>Prima dell'esecuzione di [[Apple Man]]: (la ciurma mostra la propria crudeltà interna).|**🤝 RELAZIONI**<br><br>[[Pineapple Man]] — capitano.<br>[[Apple Man]] — giustiziato dalla ciurma.<br>[[Banana Man]] — Bana Bana no Mi.<br>[[Strawberry Man]] — membro.<br>La ciurma dei [PG] — avversari/alleati di circostanza.|
+|**❓ COSA SUCCEDE SE...**<br><br>• Il tavolo si infiltra nella ciurma → può sfruttare le **tensioni interne** ([[Apple Man]]).<br>• Il tavolo salva [[Apple Man]] → devia dal canone (viene giustiziato dalla propria ciurma), ma può generare un alleato.<br>• Il tavolo affronta i Frutti in campo aperto → sfruttare i loro poteri tematici.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 46-48:** mostrare la ciurma **dall'interno**: non solo nemici, ma un gruppo pronto a uccidersi tra sé. L'esecuzione di [[Apple Man]] serve a far capire che il tavolo non ha a che fare con "pirati romantici".<br>Usare [[Banana Man]] per un combattimento "a tema".|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Gregari:** CR 4-5, 45-70 PF, CA 14-15.<br>• **Capitano [[Pineapple Man]]:** CR 6, ~80 PF.<br>• **[[Banana Man]]:** poteri del **Bana Bana no Mi** (scivoloso, potenziamento, a discrezione del GM).<br>• **Scheda scarna:** i capitoli danno Cap. 46-48 e i quattro nomi. CA/PF **stimati**.|

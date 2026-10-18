@@ -1,0 +1,39 @@
+_Mago Negromante · Credente dei Vecchi Dei_
+
+_"Il vostro re protegge Albione con le spade. Io cercavo di proteggerla con la verità. Chi dei due sbaglia?"_
+
+**◈ Statistiche Base ◈**
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**FOR**<br><br>**9**|**DES**<br><br>**15**|**COS**<br><br>**13**|**INT**<br><br>**20**|**SAG**<br><br>**11**|**CAR**<br><br>**18**|
+
+|   |   |
+|---|---|
+|**◈ INFORMAZIONI**<br><br>**Razza:** Umano<br><br>**Classe:** Mago — Scuola della Necromanzia<br><br>**Livello:** 11<br><br>**Allineamento:** Neutrale (con tendenze caotico buone)<br><br>**Background:** Orfano / Autodidatta<br><br>**Età:** 28 anni<br><br>**Aspetto:** Giovane, capelli scuri sempre scomposti, occhi con pupille lievemente dilatate (effetto del nodo), veste verde scuro|**◈ BACKSTORY**<br><br>Velox non sa dove è nato. Sa che da bambino viveva vicino a una zona di terra che pulsava — un nodo di ley corrotto che nessuno riconosceva come tale. Gli animali evitavano quel posto. Lui ci passava ore.<br><br>Crebbe da solo ai margini di un villaggio che lo tollerava ma non lo capiva. I poteri vennero da soli, come una lingua madre parlata senza insegnante. A diciotto anni abbandonò il villaggio portando quattro libri rubati dalla biblioteca del parroco locale. A ventidue aveva sviluppato una comprensione della necromanzia che richiederebbe decenni a un mago accademico.<br><br>I Figli della Quinta Luna erano già attivi quando li trovò — o loro trovarono lui. Non li guidava inizialmente. Poi capì che poteva. Velox crede genuinamente che le entità pre-celtiche non siano minacce ma medicine per un Albione malato. Ha torto nei metodi. Potrebbe non avere torto nel resto.|
+
+**◈ Abilità Speciali ◈**
+
+**Voce dei Morti:** _Può parlare con qualsiasi scheletro o cadavere entro 30 piedi come azione — non è magia, è quasi istinto._
+
+**Aura del Nodo:** _A 30 piedi da qualsiasi nodo di ley attivo, ottiene vantaggio su tutti i tiri di attacco con incantesimi e +2 alla CD._
+
+**Carisma dell'Orfano:** _Vantaggio su Persuasione con persone ai margini della società — emarginati, poveri, non credenti del sistema._
+
+**Istinto Necrotico:** _Percepisce automaticamente la presenza di non morti, magia necrotica o corruzione di ley entro 60 piedi._
+
+**◈ Equipaggiamento ◈**
+
+Quattro libri rubati (consumati, annotati) · Grimorio personale (sviluppato completamente da solo, unico al mondo) · Bastone di legno di nocciolo bruciato (focus arcano) · Simbolo dei Figli della Quinta Luna (nascosto) · Lettera non spedita ai genitori che non ha mai conosciuto · Cristallo di un nodo minore (illegalmente prelevato anni fa)
+
+**◈ Arco Narrativo ◈**
+
+Velox è l'antagonista più complesso. Il gruppo può ucciderlo, imprigionarlo, o allearsi con lui. Se sopravvive fino alla Parte IV, al Capitolo 51 scende nel settimo nodo convinto di poter 'parlare' con l'entità. Ha torto. La scena in cui capisce di aver sbagliato tutto è uno dei momenti emotivamente più pesanti della campagna.
+
+**Ruolo nel party:** _Antagonista / Potenziale alleato / Specchio filosofico dei giocatori_
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Primo incontro:** _«Il vostro re protegge Albione con le spade. Io cercavo di proteggerla con la verità. Chi dei due sbaglia?»_ — la ripete identica finché qualcuno non risponde davvero.<br><br>**Sotto pressione:** «Uccidetemi e il nodo di strada settima resta aperto senza nessuno che lo sappia chiudere. Contate i passi: ve li dico io quanti ne mancano.»<br><br>**Se mentito in faccia:** «Anch'io ho mentito a me stesso per otto anni. Non ha funzionato. Provateci lo stesso, magari voi siete più bravi.»<br><br>**Davanti a un morto:** si siede accanto al cadavere e gli chiede come ha passato la notte. Se i PG lo interrompono: «Non sto impazzendo. È che lui non ha fretta, e io sì.»<br><br>**Ultima parola (Cap. 51):** «Mi avevano detto che avrebbe risposto. Risponde. Non a me.»|**🤝 RELAZIONI**<br><br>[[Dara la cieca]] — capofila dei Senza Occhi: sanno entrambi cosa c'è sotto Albione e non sono d'accordo su cosa si debba fare. Le sue parole contano perché non gli chiede mai nulla.<br><br>[[Nima la Banchiera]] — compra cavalli, sale e silenzio per le spedizioni dei Figli della Quinta Luna; non chiede mai dove finiscono i corpi, ed è questa l'unica ragione per cui Velox le parla.<br><br>[[Fiala della Quinta Luna]] — l'unica prova fisica che la Quinta Luna esiste fuori dalla sua testa. Se i PG l'hanno presa, Velox scambia qualunque cosa per riaverla.<br><br>[[Nyxblade La Lama Senza Ombra]] — la lama che toglie l'ombra: la vuole per misurare se ne ha ancora una. Non la girerebbe contro i PG — non finché ritiene di poterli convincere.<br><br>[[Duncastle]] — dove i Figli tengono i nodi piccoli. Se i PG ci entrano prima di lui, lui lo sa entro un giorno, e la prossima conversazione dura la metà.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG lo uccidono → il settimo nodo resta senza custode; i Figli della Quinta Luna eleggono un nuovo guida in 1d6 giorni, più estrema e meno ragionevole, e al Cap. 51 manca il momento più pesante della campagna.<br>• I PG lo ingannano facendogli credere di aver parlato con l'entità → scende nel nodo con loro: è la versione migliore, la rivelazione arriva attraverso di lui e lui resta in piedi abbastanza da capire.<br>• I PG lo consegnano al re → sentenza firmata in una riga; al Cap. 43 il re scopre di aver condannato l'unica persona che sapeva leggere i nodi, e Albione ci rimette per 1d6 mesi e per un capitolo intero.<br>• I PG lo salvano quando i Figli lo tradiscono → debito di una volta sola: riporta in vita un PG morto da meno di 30 minuti, una volta per campagna, e non spiega come né perché.<br>• I PG lo ignorano fino alla Parte IV → arriva al settimo nodo da solo e muore di scena. Usarlo solo se i PG hanno rifiutato ogni dialogo: è il prezzo che pagano per averlo rifiutato.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 36** — primo incontro: nessuna arma, nessun guardiano, e la prima cosa che fa è chiedere ai PG se sentono qualcosa sotto i piedi. Persuasione DC 14 per fargli dire il nome del nodo.<br><br>**Cap. 43** — antagonista che ragiona: offre dati veri, tutti veri, in cambio di una sola cosa — una scorta fino al nodo. Non promettere mai che la otterrà.<br><br>**Cap. 45** — prigioniero. Non legarlo: parla finché ha bocca, e ogni ora di prigionia vale un'ora di spiegazioni gratuite, purché i PG gli diano qualcosa che non sia argento.<br><br>**Cap. 51** — il momento. Se è vivo scende per primo e capisce; se è morto il GM deve mettere al suo posto un altro che dica la stessa frase e non venga creduto.<br><br>**Gancio:** la [[Fiala della Quinta Luna]] — se i PG l'hanno presa, Velox sa esattamente chi l'ha in tasca e dove dorme quella notte.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Ala 1 — il muro di ossa.** Apre con 2d4 scheletri già pronti a 15 ft di scudo, si muove sempre dietro la linea e non scende mai sotto i 30 ft di distanza. Il primo colpo dei PG deve essere contro i morti, non contro di lui.<br>• **Ala 2 — il nodo.** Se combatte entro 30 ft da un nodo di ley attivo: +2 alla CD e vantaggio agli attacchi. Ordine: nube mortale (CD 15, 3d8 necrotici a round su area) poi parola di potenza lessicale su chi tenta di superare le ossa.<br>• **Ala 3 — la fuga onorevole.** Sotto 40 PF smette di combattere: si inginocchia e offre il grimorio. Se i PG esitano un round, il grimorio è già un portale da 30 secondi e Velox non è più nella stanza — ed è l'unica volta in campagna in cui un nemico se ne va con tutti i suoi indizi in mano.<br>• **Contromossa dei PG.** Danni radianti (fuoco sacro, luce diurna) sugli scheletri; interrompere la sua concentrazione (TS Saggezza CD 16) vale più di quaranta danni. Se cade la concentrazione, Velox negozia nel round successivo — è il momento in cui parla davvero.|   |

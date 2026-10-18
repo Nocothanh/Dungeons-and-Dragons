@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**📍 Dawnhaven — La Città Portuale**|   |
-|**Descrizione**<br><br>Un porto commerciale su un estuario nebbioso, costruito su palafitte sopra acqua salmastra. La nebbia è costante — anche a mezzogiorno la visibilità si riduce a venti metri ai Docks. La città non dorme mai: i mercati notturni sono più ricchi di quelli diurni. La legge è approssimativa, affidata a una guarnigione corrotta pagata dai mercanti più potenti.|**Atmosfera & Dettagli Sensoriali**<br><br>_Odore forte di sale, pesce e legno impregnato d'acqua. Il rumore dei gabbiani si mescola a quello delle trattative in dozzine di lingue diverse. I Docks sono il luogo meno sicuro: non per violenza manifesta, ma per le transazioni che avvengono nelle ombre. Di notte le lanterne appese alle barche creano riflessi d'oro sull'acqua scura._|
-|**Punti di Interesse**<br><br>I Docks del Mercante Extraplanare: barca grande e anonima ormeggiata nel punto più buio del porto, cap. 29. La Taverna del Gabbiano Storto: unico posto dove il Tradito si fida abbastanza da bere. L'Ufficio del Porto: dove si registrano entrate e uscite di navi — fonte di informazioni sulle rotte commerciali usate dal culto. Il Canale Interno: via d'acqua coperta usata per spostamenti discreti.|   |

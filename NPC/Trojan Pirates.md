@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Trojan Pirates**<br><br>_La ciurma dei "corpi" dell'Isola degli Uomini di Pietra \|_ **Gruppo / Fazione — Nemico**|   |   |   |   |   |
+|**Leader:** [[Long John Magnum]] **Tipo:** Ciurma pirata **Base:** Isola degli Uomini di Pietra (vulcano)|   |   |   |   |   |
+|**Forza tipica**<br>CR 4-8|**Effettivi**<br>Banda|**Origine**<br>Cap. 32|**Metodo**<br>Frutto (elasticità), sguardo pietrificante, forza bruta|**Area**<br>Isola degli Uomini di Pietra|**Minaccia**<br>Alta (poteri del Frutto + ambiente ostile)|
+|**HP / CA tipici:** 60-100 / 15-17 per membro **Velocità:** 30-40 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità di Gruppo**<br><br>Atletica, Intimidire, Sopravvivenza|   |   |**Composizione nota**<br>[[Long John Magnum]] (capitano, corpo elastico), [[Stoner]] (sguardo pietrificante), [[Taurus]] (uomo-toro)|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Tattiche Speciali**<br><br>- **Corpo elastico ([[Long John Magnum]]):** il capitano ha un corpo **elastico** (blocca, rinvia, assorbe i colpi).<br>- **Sguardo pietrificante ([[Stoner]]):** chi incrocia il suo sguardo rischia di restare pietrificato.<br>- **Forza bruta ([[Taurus]]):** l'uomo-toro carica e sfonda.<br>- **Terreno:** combattono su un'**isola vulcanica**, sfruttando l'ambiente.|   |   |   |   |   |
+|**Background e Motivazione**<br><br>I **Trojan Pirates** sono la ciurma che occupa l'**Isola degli Uomini di Pietra** (Parte 5, Cap. 32). Il capitano è [[Long John Magnum]] (corpo elastico), affiancato da [[Stoner]] (sguardo pietrificante) e [[Taurus]] (uomo-toro). Nello stesso arco la ciurma dei [PG] salva i sopravvissuti [[Malaise]] e [[Humphrey]]. Il loro obiettivo è il dominio/il bottino dell'isola.<br><br>**Ruolo in campagna:** ciurma-boss di arco, costruita attorno a **poteri del Frutto + ambiente**.<br><br>**Appare nei capitoli:** 32.|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO (esempi)**<br><br>**Tono:** spavaldo, crudele, sicuro del proprio potere.<br>[[Long John Magnum]]: (capitano elastico; battute non documentate).<br>[[Stoner]]: silenzioso, quasi mai parla.|**🤝 RELAZIONI**<br><br>[[Long John Magnum]] — capitano (corpo elastico).<br>[[Stoner]] — membro (sguardo pietrificante).<br>[[Taurus]] — membro (uomo-toro).<br>[[Malaise]] e [[Humphrey]] — sopravvissuti che la ciurma salva.|
+|**❓ COSA SUCCEDE SE...**<br><br>• Il tavolo non evita lo sguardo di [[Stoner]] → pietrificazione: conseguenza pesante, ma canone ambientale.<br>• Il tavolo sfrutta il vulcano → l'ambiente è un'arma a doppio taglio (per entrambi).<br>• Il tavolo non salva i sopravvissuti → [[Malaise]] e [[Humphrey]] non si uniranno alla ciurma (deviare dal canone).|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 32:** strutturare lo scontro su **tre minacce diverse** (elasticità, sguardo, carica) + **terreno vulcanico**. Inserire il salvataggio dei sopravvissuti come scelta morale.<br>Non far combattere i membri tutti insieme: usarli a ondate.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **[[Long John Magnum]]:** corpo elastico (riduce/rinvia i danni fisici).<br>• **[[Stoner]]:** sguardo pietrificante (TS DES o effetto pietra, a discrezione del GM).<br>• **[[Taurus]]:** incornata/carica (forza bruta).<br>• **Scheda scarna:** i capitoli danno Cap. 32 e i tre nomi. CA/PF **stimati**.|

@@ -1,0 +1,30 @@
+
+
+|   |   |
+|---|---|
+|**Torcia di Ferro Antico**<br><br>_Oggetto Meraviglioso · Trovato al Capitolo 3 — Tumulo di Breckon · Nessuna sintonia richiesta_|**NON COMUNE**|
+
+_Una torcia di ferro pre-romano con la testa avvolta di resina minerale induriti. Non si spegne mai — né vento né acqua la estinguono. La fiamma è bianca invece che arancione e non produce calore._
+
+**PROPRIETA'**
+
+**Luce Eterna:** Non si spegne con acqua, vento o magia di livello inferiore al 5°. Fornisce luce bianca (9 metri intensa, 9 tenue) senza calore.
+
+**Bane degli Spiriti:** Spiriti, Spettri, Ombre e Banshee entro la luce intensa subiscono svantaggio a tutti i tiri di attacco e TS. Non possono volontariamente entrare nell'area di luce intensa.
+
+**Indicatore di Corruzione:** La fiamma diventa verde quando si trova a meno di 30 metri da magia necrotica attiva o da un nodo di ley corrotto. Diventa blu vicino a magia del Feywild.
+
+_Bruciava nel tumulo da secoli — nessuno sa chi la accese. Forse non fu mai accesa da una mano umana._
+
+**Nota per il DM:** _Oggetto di utilità fondamentale per tutta la campagna. L'indicatore di colore è un sistema di allerta ambientale che guida l'esplorazione senza dirlo esplicitamente. Assicurati di usarlo in modo coerente — i giocatori impareranno a leggere i colori come un sesto senso._
+
+|   |   |
+|---|---|
+|**STORIA & ORIGINE**<br><br>Torcia di ferro pre-romano conservata nel tumulo di Breckon da secoli. La fiamma bianca, fredda al tatto, non sembra alimentata da combustibile ordinario. Secondo indizi, potrebbe essere stata attivata da una forza precedente alle pratiche umane comuni, forse legata agli spiriti stessi.|**DOVE & COME OTTENERLO**<br><br>Trovata nel Tumulo di Breckon al Capitolo 3. Prezzo stimato: 700 mo.|
+|**OGGETTI COLLEGATI & CONTROPARTI**<br><br>[[Torcia Eterna]] — altra luce eterna, di origine diversa.<br>[[Stabilizzatore runico]] — manufatti tecnologici antichi/ibridi.<br>Spiriti e non morti — bersaglio naturale.|**INCIDENTI (1d6)**<br><br>1. **Fiamma si contorce**: avverte di pericolo imminente; bonus narrativo ma per 1 round luce attenua (raggio dimezzato).<br>2. **Reazione ai morti**: quando avvicina spettri, fiamma sibila; crea disturbo, svantaggio su Furtività per 1 round.<br>3. **Colori confusi**: indicatore balbetta (verde/azzurro alternato); DM fornisce indizio ambiguo per 1 minuto.<br>4. **Freddo improvviso**: tocco freddo si intensifica; 1d4 danni da freddo a chi la brandisce senza guanti.<br>5. **Odio degli spiriti**: uno spirito ostile ottiene un attacco di opportunità in preda all'odio.<br>6. **Luce che si ritrae**: per 1 round, la luce intensa non impedisce l'entrata volontaria degli spiriti (sovraccarico momentaneo).|
+|**NOTE DI BILANCIAMENTO**<br><br>Utilità ambientale elevata per tutta la campagna, ma non direttamente dannosa. Il debuff contro spiriti è tattico. Gli incidenti la rendono meno affidabile in frangenti critici. Per PG di livello 1–4, utile in lungo termine.|   |
+
+|   |   |
+|---|---|
+|**SINERGIE & INDICATORI**<br><br>**[[Torcia Eterna]]** — accostate: doppia luce, 18 metri intensa, e il colore vira all'azzurro. Per 1 ora nessuna delle due reagisce alla necrotica, le due fiamme si compensano: serve a non farsi ingannare da un falso indicatore.<br><br>**[[Cotta di Maglia del Barrow]]** — indossata insieme la cotta emette un sibilo 1 round prima che la fiamma diventi verde: l'armatura avvisa prima della torcia.<br><br>**[[Decotto del Barrow Wight Sangue di Pietra]]** — bevuto, mantiene la fiamma verde per 10 minuti anche lontano dalla necrotica: un falso positivo volontario, utile per ingannare qualcuno.<br><br>**[[Pietra del cerchio]]** — accostata, la fiamma arde azzurra e punta verso la fonte del Feywild: TS Saggezza DC 12 per orientarsi, 10 piedi di precisione.<br><br>**[[Tumulo di Breckon]]** — dentro il tumulo la luce non si attenua mai, nessuna oscurità magica la riduce.|**USI IN ESPLORAZIONE (1d6)**<br><br>1. **Coraggio** — chi attraversa la luce intensa con la fiamma accesa non è terrorizzato dagli spiriti: TS Saggezza DC 13 con vantaggio per restare lucido.<br>2. **Segna il cammino** — la luce riflessa su uno specchio di bronzo marca il muro per 30 metri (Saggezza DC 11): il percorso resta leggibile anche 1 ora dopo.<br>3. **Esorcismo minore** — 1 round sopra un oggetto posseduto: svantaggio al prossimo tiro di possesso, una volta per giorno.<br>4. **Lettura di pietra** — la luce bianca rivela le incisioni consumate: vantaggio alle prove di Istoria o Religione sulle tombe.<br>5. **Rifornimento** — non scalda: il cibo non cuoce e l'acqua non evapora, provviste preservate per 1 giorno.<br>6. **Giuramento** — davanti a una tomba la fiamma resta bianca se il giuramento è veritiero e vacilla al verde per una mezza verità: il mentitore lo scopre solo dopo.|
+|**DOVE TROVARLA — ALTRE TRACCE**<br><br>• Tumulo di Breckon, Capitolo 3: la torcia che i PG accendono per primi.<br>• [[Le catacombe di pietra grigia]] — una seconda torcia segna l'uscita: non va mai spenta, chi la spegne resta al buio con gli spiriti.<br>• [[La terra morta di Veth]] — nel recinto arde una terza fiamma, verde da secoli: si vede da 30 metri ed è il motivo per cui nessuno ci entra di notte.<br>• [[Nima la Banchiera]] — la valuta come ferro arrugginito e offre 40 po; quando vede che la fiamma non si spegne offre 700 mo, poi rifiuta di riprenderla in cambio.|**IDEE PER IL DM**<br><br>1. **Due tombe** — nel tumulo due camere e una sola torcia: il gruppo deve scegliere quale strada illuminare e lasciare l'altra al buio.<br>2. **Verde precoce** — la fiamma diventa verde un giorno prima del tempo: fa perdere una falsa pista, un'ora di marcia, ma salva un PG da un'imboscata necrotica.<br>3. **Lo spirito senza nome** — la luce intensa non blocca quel non morto, non è spettro, ombra o banshee, ma lui la desidera: segue la torcia invece di inseguire i PG.<br>4. **Offerta al tempio** — consegnarla a [[Il tempio di Sothkar]] in cambio di un rituale gratuito: i custodi la restituiscono solo se i PG hanno fatto qualcosa che valga la luce.|   |

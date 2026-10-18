@@ -1,0 +1,20 @@
+---
+aliases:
+  - "Mezza Voce"
+---
+|   |   |   |
+|---|---|---|
+|**Mezza Voce — l'agente del Collezionista (Cap. 14–16)**<br><br>_Parla sottovoce: addormenta e porta via, non uccide \|_ **Antagonista cortese / esecutore**|   |   |
+|**Razza:** Umano (toccato dal Warp)   **Ruolo:** agente e "voce" del [[Collezionista]]   **Livello/CR:** CR 7   **Allineamento:** Neutrale|   |   |
+|**FOR**<br><br>12 (+1)|**DES**<br><br>18 (+4)|**COS**<br><br>14 (+2)|**INT**<br><br>14 (+2)|**SAG**<br><br>14 (+2)|**CAR**<br><br>16 (+3)|
+|**HP:** 50   **CA:** 16   **Velocità:** 12 m   **Bonus Competenza:** +3|   |   |
+|**Tiri Salvezza Competenti:** DES +7, CAR +6|   |   |**Abilità:** Furtività +7, Inganno +6, Percezione +5|   |   |
+|**Resistenze:** psichico   **Immunità:** —   **Scurovisione:** 12 m|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>**Lama sottovoce:** +7 (1d8+4 tagliente + 1d6 psichico se il bersaglio non la sente arrivare).<br>**Sussurro psichico (Ricarica 5–6):** un bersaglio entro 18 m; CD 15 SAG o cade addormentato. **Chi dorme non ricorda di essere stato colpito.**<br>**Mai oltre la voce:** non urla, non minaccia, non si offende. La sua calma è disarmante (vantaggio a Inganno e Intimidire).<br>**Non uccide:** addormenta e **porta via**. I suoi [[Portatori]] (×4, CR 5) trascinano il raccolto.|   |   |
+|**Background e Personalità**<br><br>[[Mezza Voce]] parla **sottovoce, sempre.** Non alza mai la voce, non si offende mai, non perde mai la calma. È l'agente del [[Collezionista]]: raccoglie ciò che vale, **senza fare rumore.**<br><br>**Motivazione:** servire il padrone. Non insegue per sé: **consegna.** «Il mio padrone vi aspetta a nord» (Cap. 16).<br><br>**Cap. 15:** blocca un [[il lettore|lettore]] che sta per toccare [[Ambra]]: «Il mio padrone vuole vederla **intera**.» È una cortesia, non una minaccia — ed è più spaventosa di una minaccia.<br><br>**Appare nei capitoli:** 14–16 (Parte II), e torna come presenza del [[Collezionista]].|   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Sempre piano:** «Non serve alzare la voce. Io vi sento comunque — e voi sentirete me.»<br>**Il mandato (Cap. 15):** «Il mio padrone vuole vederla **intera**. Non toccatela. È una richiesta cortese.»<br>**L'invito (Cap. 16):** «Il mio padrone vi aspetta a nord. Non abbiate fretta: verrà lui, quando sarà il momento.»<br>**Sul raccolto:** «Non vi uccido. Non ne ho bisogno. Dormite, e vi porto dove si sta meglio.»|**🤝 RELAZIONI**<br><br>[[Collezionista]] — il padrone: la sua voce e la sua mano.<br>[[Portatori]] (×4) — i suoi servitori silenziosi.<br>[[il lettore]] — gli toglie [[Ambra]] di mano nel Cap. 15.<br>[[Ambra]] — la "merce" che il padrone vuole vedere intera.<br>[[Aldric Vaun]] — due esecutori cortesi, senza odio.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG **combattono** → Mezza Voce non mira a uccidere: addormenta, prende ciò che può, si ritira.<br>• I PG **resistono al sussurro** (TS SAG CD 15) → l'incontro si sbilancia e lei negozia.<br>• I PG **la inseguono** → porta verso il [[Collezionista]]: seguire Mezza Voce è seguire il suo invito a nord.<br>• Un PG **cade addormentato** → si sveglia senza ricordare la ferita: cicatrice che compare da sola (gancio della Parte III).|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 14:** prima apparizione; il sussurro psichico e la lama silenziosa.<br>**Cap. 15:** protegge [[Ambra]] per conto del padrone — cortesia inquietante.<br>**Cap. 16:** l'invito a nord: apre la trama del [[Collezionista]].<br>**Come Minaccia:** non un muro di danni, ma un ladro elegante: ruba persone, non vite.<br>**Come Fonte:** sa dove il [[Collezionista]] conserva i suoi pezzi.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Mai rude:** se il tavolo la insulta, sorride. Non reagisce mai all'emozione.<br>• **Addormenta, non uccide:** il suo obiettivo è portare via un PG (una scena di cattura, non un TPK).<br>• **Fuga elegante:** se messa alle strette, usa passo velato e Furtività (+7) per sparire a metà parola.<br>• **I [[Portatori]] (×4, CR 5):** CA 14, PF 30, senza volontà — trasportano i dormienti; colpirli è facile, ma non risolvono l'incontro.|   |

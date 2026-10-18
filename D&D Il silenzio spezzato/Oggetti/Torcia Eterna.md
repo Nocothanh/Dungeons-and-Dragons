@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**Torcia Eterna**<br><br>_Arma Semplice (Torcia) \| Non Comune_|   |
-|**SINTONIZZAZIONE**<br><br>Non richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 44<br><br>**FONTE**<br><br>Trovata tra i resti di un Tessitore caduto durante l'assalto notturno|**DESCRIZIONE**<br><br>_Una torcia di legno di tasso con l'estremità avvolta in un tessuto che brucia con una fiamma bianca che non si spegne mai e non si consuma. La fiamma è fredda al tatto (non brucia involontariamente) ma infligge danni normali se usata come arma._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Brucia indefinitamente senza combustibile. Può essere spenta solo da chi la porta con azione deliberata.<br>- Usata come arma improvvisata: 1d4 danni contundenti + 1d6 danni da fuoco.<br>- Contro creature non-morte o dipendenti dall'oscurità: +1d6 danni radianti aggiuntivi.<br>- La fiamma bianca rivela automaticamente creature invisibili entro 15 piedi (la invisibilità non funziona nella sua luce).|
-|**LORE:** _I Tessitori del Vuoto usavano queste torce nelle loro cerimonie per distinguere i ranghi — solo i Fanatic (gradi alti) le portavano. La fiamma è alimentata da un residuo di magia del vuoto che i Tessitori avevano paradossalmente convertito in energia luminosa._|   |

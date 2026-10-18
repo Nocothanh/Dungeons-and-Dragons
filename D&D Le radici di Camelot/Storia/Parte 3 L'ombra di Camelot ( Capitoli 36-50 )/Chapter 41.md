@@ -1,1 +1,0 @@
-**Artù** In mezzo al caos, i giocatori incontrano per la prima volta **Artù** non ancora re, un giovane scudiero di Sir Ector, presente a Camelot per servizio. Non sa chi è (il segreto di Uther). È coraggioso, ingenuo, e aiuta durante il combattimento senza che nessuno glielo chieda. Non è il protagonista ma la sua presenza cambia la stanza.

@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Stumblebeard Pirates**<br><br>_La ciurma sfortunata del capitano [[Stumblebeard]] \|_ **Gruppo / Fazione — Nemico**|   |   |   |   |   |
+|**Leader:** [[Stumblebeard]] **Tipo:** Ciurma pirata **Base:** nave (Cap. 24; battaglia Cap. 46-47)|   |   |   |   |   |
+|**Forza tipica**<br>CR 3-6|**Effettivi**<br>Banda sgangherata|**Origine**<br>Cap. 24, 46-47|**Metodo**<br>Fuoco di cannoni, assalti caotici, fortuna pessima|**Area**<br>Rotte della Parte 5|**Minaccia**<br>Media (ma [[Trash Boy]] è concreto)|
+|**HP / CA tipici:** 30-75 / 13-15 per membro **Velocità:** 30 piedi **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità di Gruppo**<br><br>Atletica, Intimidire, Percezione|   |   |**Composizione nota**<br>[[Stumblebeard]] (capitano), [[Trash Boy]] (unico vero danno), [[Card Man]] (primo round)|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Tattiche Speciali**<br><br>- **Fuoco di cannoni:** la ciurma punta sull'artiglieria — che però **fa cilecca** (Cap. 24, un "1").<br>- **Caos e sfortuna:** la banda è goffa; il **capitano muore per tre "1" naturali** (Cap. 47).<br>- **[[Trash Boy]]:** l'unico che **infligge danno reale**.<br>- **[[Card Man]]:** entra nel **primo round** dello scontro (Cap. 47).|   |   |   |   |   |
+|**Background e Motivazione**<br><br>Gli **Stumblebeard Pirates** sono la ciurma del capitano [[Stumblebeard]]. Comapitono già al **Cap. 24** (cannone che fa cilecca) e combattono davvero al **Cap. 46-47** (Parte 5). La banda è una caricatura del pirata: goffa, rumorosa, sfortunata — tanto che **il capitano muore per tre "1" naturali** e l'unico membro realmente pericoloso è [[Trash Boy]]. Obiettivo: saccheggio.<br><br>**Ruolo in campagna:** ciurma-antagonista **tragicomica**; il tavolo non deve temerli tutti, ma non deve ignorare [[Trash Boy]].<br><br>**Appare nei capitoli:** 24, 46-47.|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO (esempi)**<br><br>**Tono:** sguaiato, spaccone, sfortunato.<br>[[Stumblebeard]]: «Aggiungetene un secondo!»<br>Un gregario: «Capitano, è uscito un altro "1"...»|**🤝 RELAZIONI**<br><br>[[Stumblebeard]] — capitano (muore per tre "1").<br>[[Trash Boy]] — l'unico vero danno della banda.<br>[[Card Man]] — primo round dello scontro.<br>La ciurma dei [PG] — avversari (Cap. 46-47).|
+|**❓ COSA SUCCEDE SE...**<br><br>• Il GM bara sulla sfortuna → tradisce il canone: la morte di [[Stumblebeard]] è **nei tre "1"**.<br>• Il tavolo elimina [[Trash Boy]] subito → lo scontro diventa una farsa (coerente col canone).<br>• Il tavolo risparmia la ciurma → non documentato; possono fuggire sgangherati.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 46-47:** prima far ridere (i cannoni che sbagliano, gli ordini stupidi), poi far male ([[Trash Boy]]). La morte di [[Stumblebeard]] sui **tre "1" tirati in chiaro** è il gran finale comico.<br>[[Card Man]] apre il primo round, così lo scontro ha un "innesco".|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Gregari:** CR 3, 30-40 PF, CA 13; sfortuna meccanica (ricarica cannoni a "1").<br>• **[[Trash Boy]]:** CR 6, ~75 PF; l'unico danno serio.<br>• **[[Stumblebeard]]:** CR 8; morte narrativa per tre "1".<br>• **[[Card Man]]:** primo round; dettagli non documentati a fondo.<br>• **Scheda scarna:** i capitoli danno Cap. 24, 46-47 e i nomi citati. CA/PF **stimati**.|

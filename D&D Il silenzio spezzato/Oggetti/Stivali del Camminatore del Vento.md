@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**Stivali del Camminatore di Vento**<br><br>_Oggetto Meraviglioso (Indossabile) \| Non Comune_|   |
-|**SINTONIZZAZIONE**<br><br>Non richiesta<br><br>**OTTENUTO AL**<br><br>Capitolo 13<br><br>**FONTE**<br><br>Trovati addosso al Capitano mercenario sconfitto al Valico di Stonefang|**DESCRIZIONE**<br><br>_Stivali di pelle scamosciata grigia con fibbie di ferro rugginoso e suole di cuoio rinforzato. Sembrano normali stivali da viaggio consumati, ma chi li indossa percepisce che i piedi sembrano conoscere il terreno prima che gli occhi lo vedano._<br><br>**PROPRIETÀ MECCANICA**<br><br>- Velocità di movimento +10 piedi quando si attraversa terreno difficile montano, boschivo o roccioso.<br>- Nessuna penalità di movimento su terreno ghiacciato o scivoloso.<br>- Vantaggio sulle prove di Acrobazia per mantenere l'equilibrio su superfici instabili.<br>- 1 volta per riposo breve: possono essere attivati per eseguire un 'passo del vento' — il portatore si muove fino a 30 piedi senza provocare attacchi di opportunità (movimento non conta come la propria velocità di turno).|
-|**LORE:** _Forgiati da un artigiano nomade delle montagne di Halvenmoor per i corrieri che portavano messaggi attraverso i passi in pieno inverno. Il capitano mercenario li aveva rubati da un corriere reale due anni prima._|   |

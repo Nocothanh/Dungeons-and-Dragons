@@ -1,0 +1,20 @@
+---
+aliases:
+  - "Pearl"
+---
+|   |   |   |
+|---|---|---|
+|**Pearl — Forma ibrida (Cap. 25-36)**<br><br>_La cuoca che diventa drago \|_ **Alleata della ciurma**|   |   |
+|**Razza:** Metà-drago (forma ibrida scoperta)   **Classe:** Combattente / Frutto del Diavolo (cucina col fiato)   **Livello/CR:** Alleata liv. 9–10   **Allineamento:** Caotico Buono|   |   |
+|**FOR**<br><br>16 (+3)|**DES**<br><br>18 (+4)|**COS**<br><br>16 (+3)|**INT**<br><br>10 (+0)|**SAG**<br><br>13 (+1)|**CAR**<br><br>15 (+2)|
+|**HP:** 62 (9d8+27)   **CA:** 16 (scaglie nascenti + DES)   **Velocità:** 30 piedi, volo 15 piedi in forma ibrida   **Bonus Competenza:** +4|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Furtività +8, Percezione +8, Acrobazia +8, Intrattenere (cucina) +7, Intuizione +5|   |   |**Tiri Salvezza Competenti**<br><br>DES +8, FOR +7|   |   |
+|**Resistenze:** fuoco   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Artiglio di drago: +8 per colpire, 2d6+4 taglienti.<br>- Forma ibrida di drago (una volta per scontro): per 1 minuto entra in forma ibrida, griglia qualcosa (2d6 fuoco su un bersaglio entro 6 piedi, 2d6 fuoco su bersagli nel raggio entro 6 piedi dal bersaglio, TS DES DC 14 dimezza), volo 15 piedi, vantaggio alle prove di Forza.<br>- Cucina col fiato (fuori combattimento): fiamme di cottura perfette; in guerra, fuoco.<br>- Fiamma di Pearl: può caricare un oggetto alleato con la sua fiamma (es. lo scudo *Amico*, Cap. 30).<br>- Attacco Extra (2 attacchi per azione).|   |   |   |   |   |
+|**Background e Personalità**<br><br>Negli anni di mare Pearl ha smesso di nascondersi. La draghessa è uscita in battaglia: nello scontro con [[Helios]] entra in forma ibrida e griglia una Sterren (Cap. 25). Resta sarcastica, ma il fuoco non è più un segreto: è un modo di parlare.<br><br>**Motivazione:** tenere al caldo chi ama — letteralmente.<br><br>**Ruolo in campagna:** alleata/incursore con potenza da drago, cuoca di bordo, memoria della ciurma.<br><br>**Appare nei capitoli:** 25–36 (poi: vedi [[Pearl — Dragonessa (Cap. 55-61)]])|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Prima del salto nello spazio:** «Se la nave finisce a pezzi, io la tengo calda finché non la ricostruite.»<br>**Sotto pressione:** «Grigliare una bersaglio e arrostire il resto: stessa tecnica, più sangue.»<br>**Se qualcuno parla male della ciurma:** «Il fuoco ti brucia la lingua prima che la bobba finisca la frase.»|**🤝 RELAZIONI**<br><br>La ciurma — le sue fiamme sono il calore della nave: cuoce, scalda, e in battaglia morde.<br>[[Helios]] — prima vittima "documentata" della forma ibrida (Cap. 25: gli Sterren bruciati)<br>[[Emperor Dominius]] — lo scudo *Amico* custodisce la sua fiamma per il colpo decisivo (Cap. 30).<br>[[Trevor]] — parte per cercarlo al Cap. 36: la sua assenza è tutta trama.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG la fanno restare per il Cap. 36 invece di farla partire → la scena del ritrovamento di [[Trevor]] cambia; al Cap. 55 non ha il nitore drammatico (vedi scheda successiva).<br>• I PG la perdono in battaglia → il drago non c'è al Cap. 30: lo scudo *Amico* non ha fiamma e l'armatura di [[Emperor Dominius]] non viene intaccata.<br>• I PG la lasciano partire serenamente → il Cerchio della saga si chiude: la sua scelta chiama il Cap. 55.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 25:** forma ibrida, 2d6 fuoco su una Sterren.<br>**Cap. 30:** la fiamma custodita dallo scudo *Amico*: il momento è narrato, non meccanico — non assegnarle mai il colpo decisivo.<br>**Cap. 36:** lascia la ciurma per [[Trevor]]: nessuna punizione, solo trama.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Forma ibrida** entra al round 2 contro nemici leggendari: 2d6 fuoco sul bersaglio primario, 2d6 sui tappeti entro 6 piedi (TS DES DC 14 dimezza).<br>• **Sotto 20 PF:** riprende la forma normale e combatte difendendosi; la grazia della mantella diventa "il respiro che tiene a 1 PF"<br>• **1d6 ambiente:** 1-2 fiamma cucina che rovescia un tavolo; 3-4 scorre calda in poppa (Percezione a tavola); 5-6 una scintilla accende un esplosivo nemico entro 12 piedi (opportunità, non obbligo).|   |

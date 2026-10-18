@@ -1,6 +1,0 @@
-
-|   |   |
-|---|---|
-|**📍 Vel'Dara — La Città dell'Occhio**|   |
-|**Descrizione**<br><br>Una metropoli-stato di circa 50.000 abitanti, circondata da mura bianche di marmo con torri di avvistamento ogni cento metri. L'Occhio Collettivo — un sistema di sorveglianza magica basato su specchi incantati e Sensori Arcani invisibili — copre il 90% degli spazi pubblici. Il Quartiere Alto ha palazzi con giardini interni; il Quartiere Basso è labirintico, con vicoli stretti e tunnel sotterranei.|**Atmosfera & Dettagli Sensoriali**<br><br>_Vel'Dara ha un'atmosfera di efficienza quasi meccanica — tutti sembrano sapere cosa fare e dove andare, nessuno si ferma troppo a lungo. Le guardie hanno uno sguardo particolarmente fisso, come se stessero ascoltando qualcosa attraverso gli occhi stessi. L'aria sa di magia — quel leggero odore metallico delle incantesimi di rilevamento attivi._|
-|**Punti di Interesse**<br><br>La Torre di Serel: ossidiana nera che svetta sopra tutto, visibile da ogni punto della città. La Rete dei Senza Occhi: sotto le fognature, raggiungibile da tre punti segreti nel Quartiere Basso. Il Mercato del Corvo Morto (cap. 8): vicolo coperto nel punto più buio del Quartiere Basso. La Prigione dell'Occhio: edificio senza finestre nel centro della città. La Guglia Spezzata: roccia isolata visibile dall'esterno delle mura.|   |

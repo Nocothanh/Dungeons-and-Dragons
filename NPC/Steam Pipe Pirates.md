@@ -1,0 +1,16 @@
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Steam Pipe Pirates**<br><br>_Ciurma dei tubi di vapore \|_ **Gruppo / Fazione — Nemico**|   |   |   |   |   |
+|**Leader:** — ([[Piper]] è il comandante noto) **Tipo:** Ciurma pirata **Base:** nave/rotte di [[Tarako Kingdom|Tarako]] e oltre|   |   |   |   |   |
+|**Forza tipica**<br>CR 2-4|**Effettivi**<br>Banda ridotta|**Origine**<br>Cap. 7|**Metodo**<br>Agguati, armi a tubi metallici, spionaggio|**Area**<br>Mari attorno a [[Tarako Kingdom|Tarako]]|**Minaccia**<br>Media (colpo di mano, informazione)|
+|**HP / CA tipici:** 20-45 / 13-15 per membro **Velocità:** 30 piedi **Bonus Competenza:** +2|   |   |   |   |   |
+|**Abilità di Gruppo**<br><br>Intimidire, Furtività, Percezione|   |   |**Composizione nota**<br>[[Piper]] (comandante, due tubi metallici), [[Bullet]] (informatrice, quattro pistole)|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Tattiche Speciali**<br><br>- **Doppio tubo ([[Piper]]):** combatte con **due tubi metallici** (Cap. 7).<br>- **Quattro pistole ([[Bullet]]):** sparò con quattro pistole; è anche informatrice (compra/vende notizie).<br>- **Pressione sul territorio:** la ciurma vive di intimidazione e informazioni.|   |   |   |   |   |
+|**Background e Motivazione**<br><br>Gli **Steam Pipe Pirates** sono una **ciurma pirata** attiva nell'orbita di [[Tarako Kingdom|Tarako]] (Parte 1). Il comandante noto è [[Piper]] (armato di **due tubi metallici**); tra le fila c'è [[Bullet]], informatrice con **quattro pistole**. Compaiono già al **Cap. 7**. La banda è più un problema di **territorio e informazioni** che una minaccia epica: non è documentato un obiettivo di saga oltre la pirateria.<br><br>**Ruolo in campagna:** ciurma-antagonista "di strada" dei primi capitoli; utile per introdurre il mondo piratesco.<br><br>**Appare nei capitoli:** 7 (e dintorni di [[Tarako Kingdom|Tarako]]).|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO (esempi)**<br><br>**Tono:** rissoso, spaccone, da porto.<br>[[Bullet|Bullet]] *vende*: «Un'informazione vale più di una pallottola. E io ho quattro pistole.»|**🤝 RELAZIONI**<br><br>[[Piper]] — comandante, due tubi metallici.<br>[[Bullet]] — informatrice, quattro pistole.<br>[[Boss|Jason Locksworth]] — il contesto dei primi capitoli.<br>La ciurma dei [PG] — avversari/contatti.|
+|**❓ COSA SUCCEDE SE...**<br><br>• La ciurma viene sgominata → libera le rotte di [[Tarako Kingdom|Tarako]]; [[Bullet]] può passare da avversaria a **informatrice** del tavolo.<br>• Il tavolo compra informazioni → utile per gli agganci di Parte 1 (Cap. 7).<br>• Il tavolo li ignora → restano sullo sfondo, non sono un boss.|**🎭 USO IN CAMPAGNA**<br><br>**Arco di Tarako (Cap. 1-8):** usarli come **minaccia "media"** e come **canale d'informazione** ([[Bullet]]). Mostrano che il mare è popolato da piccole bande, non solo dai grandi nemici.<br>Non farli durare più di una scena di conflitto: la loro funzione è tappezzeria viva.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Membri:** CR 2-4, 20-45 PF, CA 13-15.<br>• **[[Piper]]:** combattimento a due armi (due tubi).<br>• **[[Bullet]]:** attacchi a distanza multipli (quattro pistole) + tratto informatrice.<br>• **Scheda scarna:** i capitoli danno solo Cap. 7, [[Piper]] e [[Bullet]]. Non inventare altri membri o base.|

@@ -1,0 +1,20 @@
+---
+aliases:
+  - "Pearl"
+---
+|   |   |   |
+|---|---|---|
+|**Pearl — Dragonessa (Cap. 55-61)**<br><br>_La ciurma ritrova il fuoco che non si spegne \|_ **Alleata della ciurma**|   |   |
+|**Razza:** Metà-drago (dragonessa piena)   **Classe:** Combattente / Frutto del Diavolo (cucina col fiato)   **Livello/CR:** Alleata liv. 17   **Allineamento:** Caotico Buono|   |   |
+|**FOR**<br><br>18 (+4)|**DES**<br><br>20 (+5)|**COS**<br><br>18 (+4)|**INT**<br><br>11 (+0)|**SAG**<br><br>14 (+2)|**CAR**<br><br>16 (+3)|
+|**HP:** 136 (17d8+60)   **CA:** 19 (scaglie di drago + DES)   **Velocità:** 30 piedi, volo 30 piedi   **Bonus Competenza:** +6|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Furtività +11, Percezione +11, Acrobazia +11, Intrattenere (cucina) +10, Intuizione +8|   |   |**Tiri Salvezza Competenti**<br><br>DES +11, FOR +10, CAR +9|   |   |
+|**Resistenze:** fuoco, afferrare   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Artiglio di drago: +11 per colpire, 2d8+5 taglienti.<br>- Soffio di drago (ricarica 5-6): cono di fuoco 30 piedi, 8d6 fuoco (TS DES DC 18 dimezza) — a piena potenza. In forma umana lo dimezza a 4d6.<br>- Forma ibrida/piena: volo 30 piedi, vantaggio Forza, resistenza al fuoco raddoppiata.<br>- Il fuoco è la chiave: contro [[The Executioner|il Boia]] il fuoco è la soluzione semplice (Cap. 55) — 4d6 extra contro costrutti di pezza/riannodati.<br>- Cucina col fiato: nelle scene tranquille riaccende anche le città.<br>- Attacco Extra (3 attacchi per azione).|   |   |   |   |   |
+|**Background e Personalità**<br><br>Prigioniera sulla pedana di [[The Executioner|il Boia]], viva e furiosa: si è fermata solo perché la ciurma l'ha ritrovata. È una dragonessa, e non lo nasconde più. Salvata al Cap. 59; al funerale di [[Louis Le'cloque]] (Cap. 61) risponde con una frase breve e vera — non piange: guarda il mare dove.<br><br>**Motivazione:** non perdere un'altra persona a cui è legata.<br><br>**Ruolo in campagna:** memoria viva della ciurma, fuoco al fianco dei [PG] nei momenti finali.<br><br>**Appare nei capitoli:** 55, 59, 61|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Quando la ritrovano:** «Mi hanno legata perché sapevano che siete la cosa che mi ferma. Bravi. Peccato.»<br>**Dopo l'uscita dalla pedana:** «Il Boia si sbroglia con le mani. Io mi sbroglio con la giusta temperatura.»<br>**A chi chiede di Louis:** una frase breve e vera. Non piange: guarda il mare dove.|**🤝 RELAZIONI**<br><br>[[The Executioner]] — il Boia che l'aveva legata alla pedana: il suo fuoco è la chiave (Cap. 55).<br>[[Louis Le'cloque]] — morto: il lutto non trattato diventa una frase secca e una rotta (Cap. 61).<br>La ciurma — il guanto è ormai un ricordo; il fuoco è la promessa che non la lasceranno indietro.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG usano il fuoco subito → il Boia cade in 3-4 round: il nodo è che la soluzione è semplice, non che sia gratis.<br>• I PG non la salvano prima del Cap. 59 → il ciclo "pedana" si stringe; la scena di salvataggio resta comunque breve e intensa.<br>• I PG le chiedono di [[Louis Le'cloque]] → una frase, una rotta. Non trattenere la scena.<br>• I PG a fine campagna le chiedono di restare → lascia la scelta a lei: la via del mare è rispettata in ogni caso.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 55:** prigioniera sul tavolo del Boia; combattente da umana e dragonessa insieme.<br>**Cap. 59:** salvata; torna a lato dei [PG].<br>**Cap. 61:** il suo pezzo di lutto = tono per tutta la Parte 7.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Soffio di drago** come risorsa scenica: in forma piena 8d6 e fuoco ovunque (posate in fiamme, navi bruciate, via pulita); in forma umana 4d6.<br>• **Il fuoco è la chiave** contro il Boia: 4d6 extra, ma il momento va raccontato come soluzione semplice, non come combo.<br>• **Sotto 30 PF:** entra in forma piena e copre la ciurma in ritirata (cono 8d6 davanti a sé).<br>• **1d6 ambiente:** 1-2 il profumo di cucina di bordo tranquillizza il tavolo (nessun tiro); 3-4 una scintilla fa sobbalzare un PNG; 5-6 vede un ricordo in fiamme e per un round non combatte (trama, non persecuzione).|   |

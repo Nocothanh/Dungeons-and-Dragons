@@ -1,2 +1,0 @@
-**L'Alba dopo la Battaglia** Il villaggio sopravvive a malapena. Sir Edric muore durante l'assedio, difendendo l'accesso alla cantina. Lascia ai giocatori la sua spada — una lunga spada comune, ma con l'elsa incisa con il simbolo del sole. [[Padre Aldhelm]] inizia a credere che i giocatori abbiano un ruolo nel destino di Albione. Arriva un messaggero: a ovest, nella città di [[Mercia's Ford]], un mago cerca avventurieri per una spedizione urgente.
-[[Il Segatore  Ascia di Caer Dun]]

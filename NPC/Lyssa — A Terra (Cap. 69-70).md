@@ -1,0 +1,20 @@
+---
+aliases:
+  - "Lyssa"
+---
+|   |   |   |
+|---|---|---|
+|**Lyssa — A Terra (Cap. 69-70)**<br><br>_Resta a terra mentre la ciurma sale; la voce delle officine \|_ **Alleata**|   |   |
+|**Razza:** Umano   **Classe:** Artigiana / fabbro (supporto)   **Livello/CR:** CR 8   **Allineamento:** Buono|   |   |
+|**FOR**<br><br>13 (+1)|**DES**<br><br>16 (+3)|**COS**<br><br>15 (+2)|**INT**<br><br>18 (+4)|**SAG**<br><br>15 (+2)|**CAR**<br><br>17 (+3)|
+|**HP:** 66 (10d8+20)   **CA:** 16   **Velocità:** 30 piedi   **Bonus Competenza:** +3|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Arcano +7, Indagare +7, Percezione +6, Persuasione +6, Artigiano +7|   |   |**Tiri Salvezza Competenti**<br><br>INT +7, DES +6|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Martello da fabbro: +5, 1d6+1.<br>- **Mastro d'armi dell'ultima ora:** prepara l'equipaggiamento della fase finale; un'armatura o un congegno a +2 CA (una volta per capitolo).<br>- **Resta a terra:** non sale per la rotta finale (Cap. 69): è la "base" che aspetta il ritorno, e la sua voce conta nel concilio (Cap. 70).<br>- **[[Heali]]** al suo fianco: il congegno di supporto (CA 15, PF 25, attacco +5, 1d6+2).<br>- Memoria dell'intera avventura: sa cosa serve a ciascuno, perché l'ha costruito lei.|   |   |   |   |   |
+|**Background e Personalità**<br><br>Quando la ciurma si prepara alla rotta finale, **Lyssa resta a terra** (Cap. 69): non è una rinuncia, è una scelta — qualcuno deve tenere le officine, preparare il dopo, aspettare. Al Cap. 70 la sua voce si alza nel momento del conteggio finale: la ragazza che ricevette un pezzo di ferro con scritto "Amico" parla come una delle grandi, e il tavolo la riconosce. [[Heali]] la segue come sempre. Per lei l'avventura non finisce: comincia la parte in cui si **torna**.<br><br>**Motivazione:** essere il punto a cui gli altri fanno ritorno.<br><br>**Ruolo in campagna:** memoria e officina della fase finale; il volto di chi resta e aspetta.<br><br>**Appare nei capitoli:** 69-70|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Restando a terra:** «Voi salite. Io tengo il fuoco acceso. Chi torna, trova la forgia calda.»<br>**Al concilio (Cap. 70):** «Non sono salita su quella nave. Ma l'ho costruita, pezzo per pezzo. La sua rotta passa anche dalle mie mani.»<br>**A [[Heali]]:** «Tu vieni con me. Gli altri vanno a fare cose grandiose: noi teniamo i conti.»|**🤝 RELAZIONI**<br><br>La ciurma — gli amici per cui costruisce da una vita.<br>[[Aurelius]] — lo zio: la sua eredità di fabbro arriva fino a qui.<br>[[Heali]] — la sua creatura, la sua ombra, la sua risposta a un mondo troppo grande.<br>il cavaliere ([PG]) — il cavaliere legato all'armatura "Amico": quel pezzo di metallo ha attraversato tutta la saga.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG la convincono a salire → Lyssa lascia le officine vuote: nessuno prepara il "dopo", e il ritorno è più amaro.<br>• I PG non ascoltano la sua voce al concilio → perdono un alleato morale nella fase finale.<br>• I PG le lasciano [[Heali]] → il congegno sale con loro come supporto meccanico, ma lei resta sola.<br>• I PG non tornano → è lei a chiudere le officine: l'ultima scena del lutto.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 69:** resta a terra; prepara equipaggiamento e officine.<br>**Cap. 70:** la sua voce nel concilio finale; memoria della saga.<br>**Epilogo:** custode della forgia e dei ritorni.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Equipaggiamento dell'ultima ora:** un alleato in partenza ottiene un'armatura a +2 CA o un congegno (una volta per capitolo).<br>• **[[Heali]] come famiglio:** CA 15, PF 25, attacco +5, 1d6+2; si sacrifica per proteggere Lyssa.<br>• **Non combattente:** a terra non prende parte agli scontri; il suo ruolo è preparazione e scena.<br>• **1d6 ambiente:** 1-2 una forgia si accende da sola per il vento; 3-4 [[Heali]] porta un attrezzo; 5-6 qualcuno le chiede di costruire qualcosa "per quando torneranno".|   |

@@ -1,0 +1,21 @@
+---
+aliases:
+  - "Cyril — Il Marine della Ciurma (Cap. 28-40)"
+  - "Cyril"
+---
+|   |   |   |
+|---|---|---|
+|**Cyril — Il Nuovo di Bordo (Cap. 28-40)**<br><br>_Ex marine ormai membro a pieno titolo, braccio d'acqua della ciurma \|_ **Alleato**|   |   |
+|**Razza:** Umano   **Classe:** Marine (disertore) / Frutto dell'Acqua (Mizu Mizu no Mi)   **Livello/CR:** CR 8   **Allineamento:** Legale Neutrale|   |   |
+|**FOR**<br><br>15 (+2)|**DES**<br><br>17 (+3)|**COS**<br><br>16 (+3)|**INT**<br><br>14 (+2)|**SAG**<br><br>14 (+2)|**CAR**<br><br>15 (+2)|
+|**HP:** 82 (11d10+27)   **CA:** 17   **Velocità:** 30 piedi   **Bonus Competenza:** +4|   |   |   |   |   |
+|**Abilità Competenti**<br><br>Atletica +6, Percezione +6, Intimidire +6, Indagare +6, Sopravvivenza +6|   |   |**Tiri Salvezza Competenti**<br><br>FOR +6, COS +7, DES +7|   |   |
+|**Resistenze:** —   **Immunità:** —|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>- Sciabola da marine: +7, 1d8+3.<br>- **Braccio d'acqua potenziato:** +7, 1d6+4; oppure frusta d'acqua a gittata 15 piedi (afferra, spinge, disarma). Può creare un piccolo scudo d'acqua (+2 CA per un round).<br>- **Occhio militare:** vantaggio a prevedere tattiche, a leggere mappe e a trattare con marine minori.<br>- **Uomo di bordo:** conosce lo spazio e i suoi protocolli come conosceva il mare; vantaggio a orientarsi su navi e stazioni.<br>- Il peso del nome: quando vede un'alta uniforme, esita — il GM può usarlo come gancio.|   |   |   |   |   |
+|**Background e Personalità**<br><br>Passata la soglia del Cap. 25, Cyril è **a pieno titolo** nella ciurma. Nello [[Space Empire]] funge da uomo d'armi e da coscienza militare: prevede trappole, tiene la disciplina, e il suo braccio d'acqua diventa una risorsa nei combattimenti nello spazio e sul [[Planet Duros]] (Cap. 28-30). Nella saga degli [[Aeons]] (Cap. 36-40) è tra i combattenti che reggono la linea; al Cap. 40 è nella grande fuga all'alba. Il suo arco interiore resta lo stesso: un marine che ha scelto la bandiera sbagliata per la ragione giusta, e che ora deve vivere con la propria firma.<br><br>**Motivazione:** dimostrare (a sé, non agli altri) di non essere più un ingranaggio.<br><br>**Ruolo in campagna:** difesa e disciplina del gruppo; l'uomo che pensa quando gli altri corrono.<br><br>**Appare nei capitoli:** 28-40 (poi: vedi [[Cyril — Il Marine della Ciurma (Cap. 45-57)]])|   |   |   |   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**In battaglia:** «Coprite il fianco! Non è la Marina, ma la disciplina vale anche qui.»<br>**Sul braccio d'acqua:** «Me l'hanno dato loro, in quel posto. Ho deciso io cosa farne.»<br>**Guardando una nave da guerra:** «Sono ancora un marine. Solo che ora la mia nave ha un'altra bandiera — e non me ne vergogno.»|**🤝 RELAZIONI**<br><br>La ciurma — la sua seconda divisa, scelta.<br>[[Captain Everest]] — il fratello: il conto aperto che tornerà nella saga marine.<br>[[Arzen]] — l'uomo che l'ha reso "braccio d'acqua": l'ombra che non si cancella.<br>[[Lyssa]] — l'altra "giovane" del gruppo: si intendono senza troppe parole.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG lo mettono da parte → Cyril si chiude e combatte "da manuale": perde lo slancio, ma non sbaglia.<br>• I PG lo spingono a uccidere per vendetta → il suo codice si spezza: da lì in poi il GM può giocarlo più cinico.<br>• I PG lo mandano a trattare con la Marina → vantaggio (conosce i protocolli), ma il legame col fratello si fa pericoloso.<br>• I PG non lo usano nello spazio → perdono il migliore "lettore" di basi nemiche.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 28-30:** uomo d'armi nello [[Space Empire]]; braccio d'acqua sul [[Planet Duros]].<br>**Cap. 31-35:** trattiene la rotta mentre la ciurma attraversa i [[Trojan Pirates]] e gli [[Aeons]].<br>**Cap. 36-40:** in prima linea contro gli [[Aeons]]; nella grande fuga all'alba.<br>**Ruolo fisso:** disciplina e occhio militare.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Frusta d'acqua (15 piedi):** afferra, spinge o disarma un bersaglio (TS DES/FOR DC 14).<br>• **Scudo d'acqua:** +2 CA per un round, azione bonus.<br>• **Voce militare:** vantaggio a Intimidire e a comandare marine minori in combattimento.<br>• **1d6 ambiente:** 1-2 una goccia d'acqua "sente" il metallo; 3-4 un marine nemico lo chiama "signore"; 5-6 riconosce lo schema di una base ostile.|   |

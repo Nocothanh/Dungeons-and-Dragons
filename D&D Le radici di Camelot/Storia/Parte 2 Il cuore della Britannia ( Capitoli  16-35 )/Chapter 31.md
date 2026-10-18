@@ -1,3 +1,0 @@
-**Il Quinto Nodo: La Torre di Vetro** La mappa indica il quinto nodo in un luogo chiamato [[Ynys Wydryn La torre di vetro]] l'Isola di Vetro, che nella leggenda arturiana è Glastonbury. Sull'isola c'è una torre trasparente, invisibile alla luce del giorno, visibile solo al tramonto. All'interno: una **Hag del Mare** (Mara la Senza Volto, sorella di Mordra), **Specter** di druidi morti, e al centro della torre un artefatto: **Il Cuore di Albione** — una gemma pulsante verde che è fisicamente un pezzo del Ventre di Albione.
-[[Nyxblade La Lama Senza Ombra]]
-[[Frammento del Cuore di Albione]]

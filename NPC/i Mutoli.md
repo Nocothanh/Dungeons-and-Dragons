@@ -1,0 +1,21 @@
+---
+aliases:
+  - "Mutoli"
+  - "i senza-voce"
+---
+|   |   |   |
+|---|---|---|
+|**i Mutoli — i senza-voce delle navi Vedove (Cap. 17–18, 19–20)**<br><br>_Guardiani del libro: creature del primo contraente, senza bocca \|_ **Nemici rituali / guardiani**|   |   |
+|**Razza:** Costrutti del contratto   **Ruolo:** guardiani delle navi Vedove e del libro   **Livello/CR:** CR 6 (×4–6)   **Allineamento:** Neutrale|   |   |
+|**FOR**<br><br>14 (+2)|**DES**<br><br>16 (+3)|**COS**<br><br>14 (+2)|**INT**<br><br>8 (–1)|**SAG**<br><br>16 (+3)|**CAR**<br><br>4 (–3)|
+|**HP:** 40   **CA:** 16   **Velocità:** 9 m   **Bonus Competenza:** +3|   |   |
+|**Tiri Salvezza Competenti:** COS +5, SAG +6|   |   |**Abilità:** Percezione +6, Arcano +2|   |   |
+|**Resistenze:** psichico   **Immunità:** charme, paura, sonno   **Scurovisione:** 18 m|   |   |   |   |   |
+|**Azioni e Abilità Speciali**<br><br>**Tocco armonico:** +6 (1d8+3 psichico; il bersaglio non ricorda la ferita).<br>**Il coro:** i Mutoli entro 9 m l'uno dall'altro hanno vantaggio ai tiri; ogni turno il coro infligge 1d6 psichico a chi non copre la bocca (nessuno qui ha bocca).<br>**Senza volto, senza voce:** i Mutoli **non hanno bocca**, non parlano, non urlano. Comunicano solo col canto.<br>**Non muoiono:** a 0 PF si dissolvono nella melodia e **tornano dopo 9 round, più forti** (PF massimi +10). L'unico modo per fermarli è spegnere il canto — non ucciderli.|   |   |
+|**Background e Personalità**<br><br>I [[Mutoli]] sono i **senza-voce**: creature fatte dal [[primo contraente]]. Nessuno di loro ha bocca — **tranne [[Lume]]**, che è una vedova e parla. Sono **guardiani del libro** e **trascrittori**: prendono chi canta troppo e lo "accordano".<br><br>**Non uccidono: accordano.** Il loro scopo non è la morte, ma il silenzio. Prendono una voce e la registrano, come copisti di un archivio vivente.<br><br>**Motivazione:** custodire le navi Vedove e impedire che qualcuno le sciolga dal contratto.<br><br>**Appare nei capitoli:** 17–18 (il Canto del Gellar), e ancora 19–20. Ricorrono ogni volta che la ciurma tocca le navi Vedove o il libro.|   |   |
+
+|   |   |
+|---|---|
+|**💬 DIALOGO**<br><br>**Non parlano:** i Mutoli non hanno voce. Il "dialogo" è il **canto** — un coro che riempie la testa, fatto di note, non di parole.<br>**Quando il tavolo conta:** superando **Tecnologia o Presenza CD 15**, si può "fermare il coro" per un round: i Mutoli si bloccano come copisti interrotti.<br>**[[Lume]] parla per loro** (è l'unica vedova con la bocca): «Non vi vogliono morti. Vi vogliono **silenziosi**.»<br>**Il libro:** se il tavolo nomina il contratto o il [[primo contraente]], il coro esita — i Mutoli sono fatti da quella pagina.|**🤝 RELAZIONI**<br><br>[[Lume]] — la vedova che parla: l'unico Mutolo con una voce (o quasi).<br>[[primo contraente]] / [[Wick]] — il loro creatore; sono fatti dalla sua pagina.<br>[[Vedova Cantante]] e le navi Vedove — ciò che custodiscono.<br>[[il Prete Senza]] — conosce il loro canto da ottomila anni.|
+|**❓ COSA SUCCEDE SE...**<br><br>• I PG **combattono** → i Mutoli tornano dopo 9 round, più forti: la via della forza è quella sbagliata.<br>• I PG **coprono la bocca / tacciono** → il coro non trova appiglio; i Mutoli perdono il vantaggio.<br>• I PG **fermano il coro** (CD 15) → un round di pausa per attraversare la nave Vedova.<br>• I PG **dicono il nome del primo contraente** → il coro esita: un varco verso il libro.|**🎭 USO IN CAMPAGNA**<br><br>**Cap. 17–18:** i guardiani delle navi Vedove: la ciurma deve attraversare il coro senza cantare.<br>**Cap. 19–20:** tornano quando il [[Canto del Gellar]] si spezza.<br>**Meccanica del rito:** "accordare" un PG — chi canta troppo viene preso e registrato, non ucciso (conseguenza narrativa).<br>**Come Ostacolo:** non un muro di PF, ma un **enigma sonoro**: contare, tacere, accordarsi.|
+|**⚔️ VARIANTI TATTICHE**<br><br>• **Mai un massacro:** i Mutoli "accordano"; chi li combatte a lungo finisce senza voce, non senza vita.<br>• **Numericamente flessibili:** ×4–6 a seconda del livello; se il tavolo è in difficoltà, riduci il coro a ×2.<br>• **Il coro come timer:** ogni round di canto avanza un "contatore di silenzio" (quando arriva a 3, un PG perde la voce per un'ora).<br>• **[[Lume]] come eccezione:** se [[Lume]] è in scena, il tavolo ha un traduttore e un alleato — e una spia.|   |
